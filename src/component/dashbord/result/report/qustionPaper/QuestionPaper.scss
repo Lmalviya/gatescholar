@@ -1,0 +1,144 @@
+table, td, th {
+    border: 1px solid black;
+  }
+
+table {
+    border-collapse: collapse;
+  }
+
+.qPaperContainer{
+    width: 100%;
+    min-height: 90vh;
+    // background-color: red;
+}
+
+.qPaperContent{
+    width: 95%;
+    margin: auto;
+    // background-color: pink;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.paperBoxContainer{
+    background-color: rgb(251, 251, 251);
+    // border: 1px solid black;
+    box-shadow: 0 0 5px gray;
+    border-radius: 5px;
+    margin: 10px 5px;
+    padding: 10px 20px;
+}
+
+.paperBox{
+    width: 100%;
+    span{
+        font-weight: 600;
+        margin-right: 5px;
+    }
+    .optionBox{
+        margin:10px 0px;
+        line-height: 40px;
+    }
+}
+
+.showBtn{
+    // background-color: yellow;
+    padding: 10px 10px;
+    .paperBoxbtn{
+        margin-left: 20px;
+    }
+}
+
+.solutionInfo{
+    // background-color: brown;  
+}
+
+.qInfo{
+    // background-color: burlywood;
+    margin-bottom: 20px;
+    table{
+        // border: 2px solid white;
+        width: 100%;
+        td{
+            border: 1px solid black;
+            text-align: center;
+            padding: 10px 0px;
+        }
+    }
+}
+
+.solutionBtn{
+    // background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px;
+}
+.quesPaperBtn{
+    padding: 10px 0px;
+    border-radius: 40px;
+    border: none;
+    width: 150px;
+    font-size: 16px;
+    font-weight: 550;
+    box-shadow: 1px 1px 3px black;
+    &:active{
+        box-shadow: -1px -1px 3px black;
+        transform: scale(0.98);
+    }
+    &:focus{
+        outline: none;
+    }
+    
+}
+
+.solutionContent{
+    // border: 3px solid greenyellow;
+    padding: 10px 0px;
+}
+
+
+// *********************************************************
+// ***************Right side style sheet*******************
+
+.navContentInner{
+    background-color: rgb(251, 251, 251);
+    position: relative;
+    top: 10px;
+    width: 95%;
+    margin: auto;
+    display: block;
+    padding: 10px 5px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px grey;
+}
+.navContent{
+    // background-color: black;
+    max-height: 75vh;
+    min-height: 75vh;
+    overflow-y: scroll;
+    .navContentBoxBtn{
+        width: 35px;
+        height: 35px;
+        // border-color: black;
+        border: none;
+        border-radius: 20px;
+        margin: 8px 6px;
+        font-weight: 550;
+        box-shadow: 0 0 5px gray;
+        &:active{
+            box-shadow: 0 0 2px gray;
+            transform: scale(0.98);
+        }
+        &:focus{
+            outline: none;
+        }
+    }
+}
+
+
+
+.imagq{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/800px-Image_created_with_a_mobile_phone.png");
+width: 50vh;
+height: 50vh;
+}

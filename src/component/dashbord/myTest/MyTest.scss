@@ -1,0 +1,51 @@
+
+.r-lowerSection{
+    width: 100%;
+    // background-color: salmon;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    .mytest-btn-section{
+        padding: 5px 0px;
+        position: relative;
+        left: 200px;
+        right: 0;
+        width: 200%;
+        text-align: center;
+        // background-color: green;
+    }
+}
+
+.myTestEmpty{
+    // background: blue;
+    text-align: center;
+    font-size: 60px;
+    position: relative;
+    top: 30vh;
+
+}
+
+
+.shadow { 
+    color: #e9e9e9;
+
+    font: bold 52px Helvetica, Arial, Sans-Serif;
+    text-shadow: 1px 1px #7a7877, 
+                 2px 2px #fe4902, 
+                 3px 3px #fe4902;
+    // transition: all 0.12s linear;
+ }
+ .shadow:hover {
+    position: relative; 
+    top: -2px; 
+    left: -2px; 
+    text-shadow: 1px 1px #fe4902, 
+                 2px 2px #fe4902, 
+                 3px 3px #fe4902, 
+                 4px 4px #fe4902, 
+                 5px 5px #fe4902, 
+                 6px 6px #fe4902;
+ }
+
+//  fe4902
+
+// remaning css from Result Home

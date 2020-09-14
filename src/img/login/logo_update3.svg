@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="85.25px" height="86px" viewBox="0 0 85.25 86" enable-background="new 0 0 85.25 86" xml:space="preserve">
+<g display="none">
+</g>
+<circle fill="#DD2626" cx="31.454" cy="37.662" r="8.832"/>
+<circle fill="#FFFFFF" cx="31.454" cy="37.662" r="6.019"/>
+<g>
+	<circle fill="#1A1A1A" cx="31.475" cy="37.618" r="2.352"/>
+	<circle fill="#FFFFFF" cx="32.892" cy="36.022" r="1.091"/>
+</g>
+<circle fill="#DD2626" cx="52.556" cy="37.397" r="8.991"/>
+<circle fill="#FFFFFF" cx="52.556" cy="37.397" r="6.127"/>
+<g>
+	<circle fill="#1A1A1A" cx="52.555" cy="37.4" r="3.064"/>
+	<circle fill="#FFFFFF" cx="54.402" cy="35.321" r="1.421"/>
+</g>
+<rect x="39" y="35.5" fill="#DD2626" width="7" height="3"/>
+<rect x="23" y="23.5" fill="#C91818" width="2" height="22"/>
+<g>
+	<g>
+		<path d="M37.395,47.517c1.545,4.197,8.372,4.211,9.803-0.083c0.307-0.92-1.142-1.312-1.446-0.398
+			c-0.943,2.832-5.879,2.883-6.91,0.083C38.51,46.218,37.06,46.607,37.395,47.517L37.395,47.517z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="27" y="17.5" fill="#1A1A1A" width="29" height="5"/>
+		<g>
+			<rect x="29" y="22.5" fill="#1A1A1A" width="25" height="4"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path d="M51.924,17.371c1.688-1.68,1.615,3.002,2.567,5.598c0.811,2.21,4.249,6.163,2.429,6.954L51.924,17.371z"/>
+				</g>
+			</g>
+			<g>
+				<path d="M52.616,17.041c-2.377-0.149,0.763,3.826,1.76,6.404c0.848,2.195,1.391,7.75,2.894,6.217"/>
+			</g>
+		</g>
+		<ellipse transform="matrix(0.8997 -0.4364 0.4364 0.8997 -4.5516 26.0956)" cx="54.519" cy="22.954" rx="0.591" ry="0.658"/>
+	</g>
+</g>
+<rect x="10.204" y="55.14" fill="none" width="65.593" height="13.033"/>
+<text transform="matrix(1 0 0 1 10.2036 63.2344)" fill="#DD2626" font-family="'Gadugi'" font-size="10.9349">Gate Scholar</text>
+</svg>

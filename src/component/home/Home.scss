@@ -1,0 +1,34 @@
+.homeContainer{
+    height: 90vh;   
+    box-sizing: border-box;
+    display: block;
+    background-repeat: no-repeat;
+}
+
+.Bimg{
+    width: 90%;
+    position: absolute;
+    right: 0;
+
+
+}
+
+.homeHeading{
+    width: 50%;
+    position: absolute;
+    text-align: center;
+    margin-top: 10%;
+    h1{
+        font-size: 60px;
+        font-family: 'Asap', sans-serif;
+        margin-bottom: 2%;
+    }
+    p{
+        font-family: 'Karla', sans-serif;
+        line-height: 20px; 
+        margin-bottom: 5%;
+    }
+}
+.homeContent{
+    height: 90vh;
+}

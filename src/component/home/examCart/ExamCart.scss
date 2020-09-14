@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+$big: 'Rubik', sans-serif; 
+$medium:'Asap', sans-serif;
+$small: 'Karla', sans-serif; 
+
+.event-content{
+    width: 100%;
+    margin-top: -3.3%;
+    height: 100vh;
+    background: linear-gradient(to right, rgb(6, 190, 182), rgb(72, 177, 191));
+}
+.event-text{
+    // background-color: red;
+    text-align: center;
+    font-family: $medium;
+    font-size: 30px;
+    padding-top: 60px;
+    word-spacing: 10px;
+    letter-spacing: 8px;
+}
+.eventCart{
+    width: 100%;
+    position: relative;
+    padding: 5% 50px;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 350px;
+    grid-gap: 20px;
+
+}
+.iteamCart{
+    position: relative;
+    // background-color: purple;
+    overflow: hidden;
+    font-family: $medium;
+    transition: all 0.2.5s ease 0s;
+    box-shadow:  -2px -2px 8px rgba(35, 212, 204, 1),
+                -2px -2px 12px rgba(35, 212, 204, 0.5),
+            inset 2px 2px 4px rgba(35, 212, 204, 1),
+                2px 2px 8px rgba(85, 83, 83, 0.6);
+             
+    &:hover{
+        box-shadow:  inset -2px -2px 8px rgba(35, 212, 204, 1),
+            inset -2px -2px 12px rgba(35, 212, 204, 0.5),
+            inset 2px 2px 4px rgba(35, 212, 204, 1),
+            inset 2px 2px 8px rgba(12, 5, 5, 0.6);
+        p, h2{
+            display: inline-block;
+            transform: scale(0.98);
+        }
+    }
+    .iteamHeadingText{
+            text-align: center;
+            padding: 13px 0;
+            letter-spacing: 3px;
+      
+    }
+    p{
+        line-height: 30px;
+        padding: 0px 15px;
+        
+    }
+}
+
+.exam-btn{
+     position: relative;
+    display: inline-block;
+    padding: 10px 30px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 2px;
+    // color: #5a84a2;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 40px;
+    border: 1px solid navy;
+    margin-top: 20px;
+    &:hover{
+        border: none;
+        color: green;
+        box-shadow:  inset -2px -2px 8px rgba(35, 212, 204, 1),
+            inset -2px -2px 12px rgba(35, 212, 204, 0.5),
+            inset 2px 2px 4px rgba(35, 212, 204, 1),
+            inset 2px 2px 8px rgba(12, 5, 5, 0.6);
+    span{
+        display: inline-block;
+        transform: scale(0.95);
+    }
+    }
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="85.25px" height="86px" viewBox="0 0 85.25 86" enable-background="new 0 0 85.25 86" xml:space="preserve">
+<g display="none">
+</g>
+<circle fill="#FFFFFF" cx="45.167" cy="39.25" r="27.25"/>
+<g>
+	<circle fill="#DD2626" cx="35.537" cy="41.662" r="8.832"/>
+	<circle fill="#FFFFFF" cx="35.537" cy="41.662" r="6.019"/>
+	<g>
+		<circle fill="#1A1A1A" cx="35.558" cy="41.618" r="2.352"/>
+		<circle fill="#FFFFFF" cx="36.975" cy="40.022" r="1.091"/>
+	</g>
+	<circle fill="#DD2626" cx="56.639" cy="41.397" r="8.991"/>
+	<circle fill="#FFFFFF" cx="56.639" cy="41.397" r="6.127"/>
+	<g>
+		<circle fill="#1A1A1A" cx="56.638" cy="41.4" r="3.064"/>
+		<circle fill="#FFFFFF" cx="58.485" cy="39.321" r="1.421"/>
+	</g>
+	<rect x="43" y="39.5" fill="#DD2626" width="7" height="3"/>
+	<rect x="27" y="27.5" fill="#C91818" width="2" height="22"/>
+	<g>
+		<g>
+			<path d="M40.478,52.517c1.973,5.449,10.171,5.498,11.996-0.083c0.302-0.922-1.147-1.313-1.446-0.398
+				c-1.349,4.125-7.633,4.142-9.103,0.083C41.597,51.216,40.147,51.605,40.478,52.517L40.478,52.517z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<rect x="31" y="21.5" fill="#1A1A1A" width="29" height="5"/>
+			<g>
+				<rect x="33" y="26.5" fill="#1A1A1A" width="25" height="4"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<path d="M56.007,21.371c1.688-1.68,1.615,3.002,2.567,5.598c0.811,2.21,4.249,6.163,2.429,6.954L56.007,21.371z"/>
+					</g>
+				</g>
+				<g>
+					<path d="M56.699,21.041c-2.377-0.149,0.763,3.826,1.76,6.404c0.848,2.195,1.391,7.75,2.894,6.217"/>
+				</g>
+			</g>
+			<ellipse transform="matrix(0.8997 -0.4364 0.4364 0.8997 -5.888 28.2787)" cx="58.602" cy="26.954" rx="0.591" ry="0.658"/>
+		</g>
+	</g>
+</g>
+</svg>

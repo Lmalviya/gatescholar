@@ -1,0 +1,47 @@
+.reportnavContainer{
+    // background-color: pink;
+    align-items: center;
+    // min-height: 10vh;
+    position: relative;
+    // top: 3vh;
+    padding: 15px 0px;
+    max-height: 10hv;
+    display: block;
+    
+}
+
+
+.reportnavContent{
+    position: relative;
+    left: 30px;
+    width: 40%;
+    border-radius: 5px;
+    // padding: 5px 0px;
+    background-color: #107a8b;
+    overflow: hidden;
+}
+
+.reportnav-links{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+    .reportnav-link{
+        list-style: none;
+        padding: 5px 20px;
+    
+        // border: 1px solid black;
+        a{
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: 600;
+            color: white;
+        }
+        &:hover{
+            background-color: #0f96a8fa;
+        }
+        &:active{
+            transform: scale(0.98);
+        }
+    }
+}

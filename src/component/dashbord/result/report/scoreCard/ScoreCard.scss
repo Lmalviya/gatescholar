@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.scorecardContainer{
+    // border: 2px solid green;
+    width: 100%;
+    // min-height: 90vh;    
+    // background-color: pink;
+}
+.scorecardContent{
+    // border: 2px solid blue;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+}
+
+.scorecardupperSection{
+    // background-color: palevioletred;
+    width: 100%;
+    padding: 0px 20px;
+    margin-bottom: 5vh;
+}
+.scorecardlowerSection{
+    // background-color: purple;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    // position: relative;
+    // top: -40px;
+}
+
+// **************************score info*************************************
+.scoreHeading{
+    background: white;
+    width: 200px;
+    padding: 5px 10px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    box-shadow: 0px 0px 10px gray;
+    text-align: center;
+}
+.secore-sections{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    // border: 2px solid red;
+    box-shadow: 0px 5px 10px gray;
+    background-color: white;
+    padding-top: 20px;
+    padding-right: 3px;
+    overflow: hidden;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.secore-section-1{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    // background-color: steelblue;
+    // margin: 0px 5px;
+    line-height: 30px;
+    font-size: 16px;
+    text-align: center;
+    p{
+        padding: 10px 0px;
+        border-bottom: 1px solid black;
+    }
+    li{
+        padding: 10px 0px ;
+        list-style: none;
+    }
+}
+
+// *********************score performance **************************
+
+.PerformanceContainer{
+    border-radius: 10px ;
+    margin: 5px 10px;
+    box-shadow: 0px 0px 5px gray;
+    
+}
+.performanceHeading {
+    text-align: center;
+    word-spacing: 5px ;
+    letter-spacing: 3px;
+    padding: 10px 0px;
+    font-size: 18px;
+    
+}
+.percormanceChart{
+    // height: 50px;
+    display: block;
+}

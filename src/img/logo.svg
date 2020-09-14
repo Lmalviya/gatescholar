@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="86.5px" height="57.207px" viewBox="0 0 86.5 57.207" enable-background="new 0 0 86.5 57.207" xml:space="preserve">
+<g>
+	<circle fill="#62804E" cx="30.99" cy="23.696" r="8.832"/>
+	<circle fill="#FFFFFF" cx="30.99" cy="23.696" r="6.019"/>
+	<g>
+		<circle fill="#1A1A1A" cx="31.011" cy="23.652" r="2.352"/>
+		<circle fill="#FFFFFF" cx="32.428" cy="22.056" r="1.091"/>
+	</g>
+	<circle fill="#62804E" cx="52.092" cy="23.431" r="8.991"/>
+	<circle fill="#FFFFFF" cx="52.092" cy="23.431" r="6.127"/>
+	<g>
+		<circle fill="#1A1A1A" cx="52.091" cy="23.434" r="3.064"/>
+		<circle fill="#FFFFFF" cx="53.938" cy="21.355" r="1.421"/>
+	</g>
+	<rect x="38" y="22" fill="#62804E" width="7" height="3"/>
+	<rect x="22" y="10" fill="#62804E" width="2" height="22"/>
+	<g>
+		<g>
+			<path d="M36.931,33.55c1.545,4.197,8.372,4.211,9.803-0.083c0.307-0.92-1.142-1.312-1.446-0.398
+				c-0.943,2.832-5.879,2.883-6.91,0.083C38.046,32.252,36.596,32.641,36.931,33.55L36.931,33.55z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<rect x="26" y="4" fill="#1A1A1A" width="29" height="5"/>
+			<g>
+				<rect x="28" y="9" fill="#1A1A1A" width="25" height="4"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<path d="M51.46,3.405c1.688-1.68,1.615,3.002,2.567,5.598c0.811,2.21,4.249,6.163,2.429,6.954L51.46,3.405z"/>
+					</g>
+				</g>
+				<g>
+					<path d="M52.152,3.074c-2.377-0.149,0.763,3.826,1.76,6.404c0.848,2.195,1.391,7.75,2.894,6.217"/>
+				</g>
+			</g>
+			<ellipse transform="matrix(0.8997 -0.4364 0.4364 0.8997 1.4972 24.4929)" cx="54.055" cy="8.988" rx="0.591" ry="0.658"/>
+		</g>
+	</g>
+	<rect x="9.74" y="41.173" fill="none" width="65.593" height="13.033"/>
+	<text transform="matrix(1 0 0 1 9.7397 49.2681)" fill="#627F4F" font-family="'Gadugi'" font-size="10.9349">Gate Scholer</text>
+</g>
+</svg>

@@ -1,0 +1,199 @@
+$big: 'Rubik', sans-serif; 
+$medium:'Asap', sans-serif;
+$small: 'Karla', sans-serif; 
+
+// **************contect us****************
+.contectRight{
+    // border: 5px solid brown;
+    width: 50%;
+}
+.contectUs{
+    display: flex;
+    .contectLeft{
+        width: 50%;
+        text-align: center;
+        padding-top: 3%;
+        display: block;
+        // background-color: crimson;
+        h1{
+            font-size: 300%;
+            color:#4fc1e9;
+            font-family: $medium;
+        }
+        p{
+            font-size: 115%;
+            font-family: $small;
+            margin-top: 10px;
+            
+        }
+    }
+    .contectImage{
+        width: 100%;
+    }
+}
+
+.socialMedia{
+    ul{
+        position: relative;
+        left: 15%;
+        transform: translate(-50%, -50%);
+        margin:10% auto;
+        padding: 0;
+        display: flex;
+        width: 30%;
+        // border: 2px solid red;
+    }
+    li{
+        list-style: none;
+        margin: 0 1%;
+        
+        .fab{
+            font-size: 23px;
+            color: #262626;
+            background: rgba(197, 34, 34, 0.5);
+            width: 100%;
+            line-height: 50px;
+            transition: 0.5s;
+        }
+        
+        .fb{
+            .fa-facebook-f{
+                background-color: #1866f8;
+                color: white;
+            }
+            &:before{
+                background: #0b3177e1;
+            }
+            &:after{
+                background: #0b3177e1;
+            }
+        }
+        .insta{
+            .fa-instagram{
+                background-color: #f3558e;
+                color: white;
+                font-size:26px;
+            }
+            &:before{
+                background: #c04774;
+            }
+            &:after{
+                background: #c04774;
+            }
+        }
+        .linked{
+            .fa-linkedin-in{
+                background-color: #28c7fa;
+                color: white;
+            }
+            &:before{
+                background: #1d8aaf;
+            }
+            &:after{
+                background: #1d8aaf;
+            }
+        }
+        a {
+            position: relative;
+            display: block;
+            width: 50px;
+            height: 50px;
+            background: #fff;
+            text-align: center;
+            transform: perspective(1000px) rotate(-30deg) skew(25deg) translate(0, 0) ;
+            transition: 0.5s;
+            box-shadow: -20px 20px 15px rgba(0, 0, 0, 0.5);
+            &:hover{
+                transform: perspective(1000px) rotate(-30deg) skew(25deg) translate(0px, -50px);
+                box-shadow: -50px 50px 35px rgba(0, 0, 0, 0.5);
+            }
+            &:before{
+                content: '';
+                position: absolute;
+                top:7px;
+                left: -14px;
+                height: 100%;
+                width: 15px;
+                // background: #b1b1b1;
+                transition: 0.5s;
+                transform: rotate(0deg) skewY(-45deg);
+
+            }
+            &:after{
+                content: '';
+                position: absolute;
+                bottom: -15px;
+                left: -7px;
+                height: 15px;
+                width: 100%;
+                // background: #b1b1b1;
+                transition: 0.5s;
+                transform: rotate(0deg) skewX(-45deg);
+
+            }
+        }
+    }
+    
+}
+
+// ****************right side box 
+
+.msgFormBox{
+    // background: firebrick;
+    height: 100%;
+    display: block;
+    form{
+        // background: green;
+        padding: 5% 5%;
+    }
+    label{
+        font-size: 18px;
+        font-weight: 500;
+    }
+}
+.titleBox{
+    width: 80%;
+    height: 30px;
+    border-radius: 30px;
+    border: none;
+    padding-left: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0px 0px 5px gray;
+
+    &:focus{
+        outline: none;
+    }
+}
+.sendMsgBtn{
+    span{
+        padding-right: 10px;
+        color: #28c7fa;
+    }
+    margin-top: 10px;
+    background: white;
+    border: none;
+    border-radius: 40px;
+    font-size: 20px;
+    font-weight: 500;
+    width: 150px;
+    height: 40px;
+    box-shadow: 0px 0px 5px gray;
+    &:focus{
+        outline: none;
+    }
+    &:active{
+        transform: scale(0.98);
+    }
+}
+
+.areaBox{
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+    box-shadow: 0px 0px 5px gray;
+    &:focus{
+        outline: none;
+    }
+}

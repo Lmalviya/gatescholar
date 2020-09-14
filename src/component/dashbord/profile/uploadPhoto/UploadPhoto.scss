@@ -1,0 +1,63 @@
+.popContainer{
+    width: 100%;
+    // background-color: pink;
+    position: relative;
+}
+
+.popContent{
+    width: 80%;
+    margin: auto;
+    background-color:white;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.popHeading{
+    background-color: #107a8b;
+    text-align: center;
+    padding: 10px 0px;
+    h2{
+        text-transform: uppercase;
+        color: white;
+    }
+}
+
+.popHeadingBtn{
+    // background-color: greenyellow;
+    font-size: 30px;
+}
+
+.popMain{
+    // background-color: greenyellow;
+    display: flex;
+}
+
+.imgPreview{
+    width: 150px;
+    height: 150px;
+    background-color: gray;
+    border-radius: 10px;
+    margin: 50px 0px 50px 100px;
+}
+
+.popMainBtnBox{
+    // background-color: red;
+    margin: auto;
+    align-items: center;
+    padding: 20px 50px;
+}
+
+.popfooter{
+    // background-color: brown;
+    // padding: 10px 0px;
+    text-align: center;
+}
+.mainBtn{
+    margin-top: 20px;
+   .main-btn{
+       margin-left: 20px;
+   }
+}
+.footerBtn{
+    margin-bottom: 20px;
+}

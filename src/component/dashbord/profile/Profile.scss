@@ -1,0 +1,129 @@
+.profile-container{
+    // background-color: red;
+    width: 100%;
+    min-height: 85vh;
+    display: block;
+    overflow: hidden;
+    max-height: 90vh;
+
+    // align-items: center;
+    // text-align: center;
+}
+
+.profile-content{
+    width: 80%;
+    min-height: 60vh;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(66, 65, 65, 0.308);
+    margin: auto;
+    position: relative;
+    top: 10vh;
+    display: grid;
+    padding: 0px 50px;
+    align-items: center;
+    grid-template-columns: 2fr 5fr;
+}
+
+.profile-left{
+    // background-color: green;
+    text-align: center;
+    align-items: center;
+    // padding: 50px 0px;
+}
+.profile-img{
+    margin-bottom: 10px;
+//    border: 2px solid rgba($color: #000000, $alpha: 1.0);
+    border-radius: 10px;
+    width: 60%;
+}
+
+.profile-btn{
+    position: relative;
+   display: inline-block;
+   padding: 10px 30px;
+   text-decoration: none;
+   text-transform: uppercase;
+   font-weight: 550;
+   letter-spacing: 1px;
+   color: #5a84a2;
+   text-align: center;
+   font-size: 14px;
+   border-radius: 50px;
+   border: none;
+   margin: 5px 0px;
+   cursor: pointer;
+   box-shadow:  -2px -2px 8px rgba(255, 255, 255, 1),
+    -2px -2px 12px rgba(255, 255, 255, 0.5),
+   inset 2px 2px 4px rgba(255, 255, 255, 1),
+    2px 2px 8px rgba(0, 0, 0, 0.5);
+    &:focus{
+        outline: none;
+    }
+    &:active{
+        box-shadow: inset -2px -2px 8px rgb(255, 255, 255),
+                    inset -2px -2px 12px rgba(255, 255, 255, 1),
+                    inset 2px 2px 4px rgba(255, 255, 255, 1),
+                    inset 2px 2px 8px rgba(0, 0, 0, 1);
+        span{
+            display: inline-block;
+            transform: scale(0.98);
+        }
+    }
+}
+
+// *************************right side prfile*************
+.profile-right{
+   position: relative;
+    left: 50px;
+    text-align: center;
+   width: 90%;
+   min-height: 50vh;
+//    background-color: pink;
+}
+
+
+// *************************password change***************************
+.pass-change{
+   width: 70%;
+   margin: auto;
+   h2{
+       margin: 15px 0px;
+       color: #5a84a2;
+   }
+}
+.pass-group{
+    padding: 5px 0px;
+    .pass-input{
+        border: 1px solid gray;
+        width: 100%;
+        padding: 10px 10px;
+        border-radius: 40px;
+        &:focus{
+            outline: none;
+        }
+    }
+}
+
+// *******************user profile*************************
+
+.user-info{
+    // background-color: purple;
+    width: 70%;
+    position: relative;
+    top: 50px;
+    margin: auto;
+    h2{
+        margin-bottom: 15px;
+        color: #5a84a2;
+    }
+    p{
+        // background-color: red;
+        padding: 10px 15px;
+        text-align: left !important;
+        border: 1px solid gray;
+        width: 100%;
+        margin: 5px 0;
+        border-radius: 40px;
+    }
+}

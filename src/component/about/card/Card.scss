@@ -1,0 +1,99 @@
+$big: 'Rubik', sans-serif; 
+$medium:'Asap', sans-serif;
+$small: 'Karla', sans-serif; 
+
+// *************team description ********
+.teamContainer{
+    position: relative;
+    width: 78%;
+    margin: 0px 150px;
+    padding: 30px 0px;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 440px;
+    grid-gap:40px;
+    .teamCard{
+        position: relative;
+        background: #000;
+        overflow: hidden;
+        border-radius: 10px;
+        transition: 0.5s;
+        &:hover{
+            .teamImg{
+                opacity: 0.5;
+            }
+            .teamContent{
+                bottom: 0px;
+            }
+            transform: translateY(-20px);
+            box-shadow: 0 20px 20px rgba(0, 0, 0, 0.3);
+        }
+        &:nth-child(1){
+            .teamContent{
+                background: linear-gradient(to top, #c21833, transparent);
+            }
+        }
+        &:nth-child(2){
+            .teamContent{
+                background:linear-gradient(to top, #8012a5, transparent);
+            }
+        }
+        &:nth-child(3){
+            .teamContent{
+                background:linear-gradient(to top, #3a414c, transparent);
+            }
+        }
+    }
+    .teamImg{
+        position: absolute;
+        top:0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        transition: 0.5s;
+        .mPhoto{
+            width: 100%;
+        }
+    }
+    .teamContent{
+        position: absolute;
+        width: 100%;
+        height: 60%;
+        bottom: -100%;
+        padding: 20px;
+        box-sizing: border-box;
+        text-align: center;
+        transition: all 0.5s ;
+        padding-top: 100px;
+        h2{
+            margin:0 0 10px;
+            padding: 0;
+            color: #fff;
+            font-size: 20px;
+            font-family: $medium;
+            span{
+                color: #ffeb3b;
+                font-size: 16px;
+                font-family: $small;
+            }
+        }
+        ul{
+            display: flex;
+            margin: 20px 0 0;
+            padding: 0;
+            align-items: center;
+            justify-content: center;
+            li{
+                list-style: none;
+            }
+            a{
+                text-decoration: none;
+                color: #fff;
+                padding: 0 10px;
+                font-size: 16px;
+                transition: 0.5s;
+            }
+        }
+    }
+}

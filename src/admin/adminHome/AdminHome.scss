@@ -1,0 +1,24 @@
+.adminHomeContainer{
+    padding: 20px 50px;
+}
+
+.testListFilter{
+    // background: blueviolet;
+    padding: 10px 30px;
+    float: right;
+    label{
+        margin: 0px 20px;
+        font-size: 18px;
+        font-weight: 550;
+    }
+    select{
+        width: 30vh;
+        padding: 10px;
+        border: none;
+        border-radius: 30px;
+        box-shadow: 1px 1px 5px black;
+        &:focus{
+            outline: none;
+        }
+    }
+}

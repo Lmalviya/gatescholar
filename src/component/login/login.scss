@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Variables */
+// :root{
+//     --primary-gradient: linear-gradient(to right, #4e4376, #2b5876);
+//     --mango-gradient : linear-gradient(to right, #ffa751, #ffe259);
+//     --text-color: #F7F9F9;
+//     --Montserrat: "Montserrat", cursive;
+//     --Lobster: "Lobster", cursive;
+//     --primary-shadow: -1px 0px 15px rgba(27, 27, 27, 0.5);
+//     --border-color: rgba(0,0,0,0.329);
+// }
+
+.loginContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    max-height: 610px;
+    // border:  5px solid green;
+}
+
+.panel{
+    width: 70%;
+    height: 80%;
+    border-radius: 20px;
+    overflow: hidden;
+    // border:5px solid saddlebrown;
+    box-shadow:-1px 0px 15px rgba(27, 27, 27, 0.5);
+}
+
+.row{
+    display: grid;
+    grid-template-columns: 65% 35%;
+    height: 100%;
+    background: #fff;
+}
+
+.liquid{
+    background: url('../../img/login/loginBackground.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.liquid h4{
+    text-align: left;
+    padding: 0 2rem;
+    color: whitesmoke;
+    font-family:  "Montserrat", cursive;
+}
+
+.owl-carousel{
+    width: 100%;
+    height: 350px;
+    // border:  5px solid green;
+    max-height: 3600px;
+    margin-top: 30px;
+}
+
+.owl-carousel .owl-item .login_img{
+    float: right;
+    // width: 85%;
+    // border:  5px solid red;
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-right: 3rem;
+}
+
+.owl-dots{
+    position: fixed;
+    padding: 3rem 1.2rem;
+    display: flex !important;
+    flex-direction: column;
+    transform: translateY(-240px);
+}
+
+.owl-dots button{
+    border-radius: 5rem;
+    margin: .3rem 0;
+}
+
+.owl-dots button span{
+    background:#F7F9F9 !important;
+    margin: 0rem .6rem !important;
+}
+
+.owl-dots .active{
+    border: 1px solid #ffd765 !important;
+}
+
+.owl-dots .active span{
+    background: #ffd765 !important;
+    margin: .3rem .5rem !important;
+}
+
+
+/* Second Column Login */
+.navigationLogin{
+    position: relative;
+    top: -15px;
+    left: 50px;
+}
+.btnLogin{
+    position: relative;
+    top: 20px;
+    left: -100px;
+}
+.btnLogin, .navigationLogin{
+    border: none;
+    background: radial-gradient( rgb(45, 168, 160), rgb(62, 187, 216)); 
+    color: #ffffff !important;
+    // font-weight: 700;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    border-radius: 20px;
+    letter-spacing: 2px;
+    text-decoration: none;  
+    box-shadow: inset 2px 2px 8px rgba(255, 255, 255, 0.5),
+            inset -2px -2px 12px rgba(0, 0, 0, 0.5),
+            inset 2px 2px 4px rgba(255, 255, 255, 0.1),
+            inset 2px 2px 8px rgba(0, 0, 0, 0.15);
+    &:hover{
+        text-shadow: 0px 0px 1px #f2f3f7;
+    }
+    &:focus{
+        outline: none;
+    }
+    &:active{
+        transform: scale(0.98);
+    }
+}
+
+.btnPosition{ 
+//    margin-left: -10px;
+   margin-top: 10px;
+//    border: 1px solid black;
+}
+
+.titles{
+    margin-bottom: 2.2rem;
+}
+
+.form{
+    text-align: center;
+    display: grid;
+  grid-template-rows: 20% 10% 70%;
+   grid-column: 2;
+}
+.form h3, form h6{
+    font-family:"Montserrat", cursive;
+    padding: 0;
+    margin: 0;
+    transform: scale(1.3);
+    // padding-left: 3rem;
+}
+
+.form h6{
+    // padding-left: 4.5rem;
+    transform: scale(1.3);
+    font-family:"Lobster", cursive;
+    color: #444444d2;
+}
+
+.form .form-group{
+    text-align: left;
+    border: 1px solid rgba(0,0,0,0.329);
+    margin-top: .9rem;
+    margin-right: 2rem;
+    border-radius: 3rem;
+    overflow: hidden;
+    &:focus{
+        background: none;
+    }
+}
+
+.form .form-group .form-input{
+    padding: .5rem 1rem;
+    background: transparent !important ;
+    border: none;
+    // font-family: "Montserrat", cursive;
+    margin-left: 0px;
+    font-size: .9rem;
+    width: 90%;
+    overflow: hidden;
+    &:focus{
+        outline: none;
+        background-color:  transparent !important ;
+    }
+}
+
+
+.form .input-icon{
+    display: inline;
+    color:rgba(0,0,0,0.329);
+    
+}
+
+.titles{
+    position: relative;
+    top:25%;
+}
+
+
+
+.loginFacebook{
+    border-bottom: 1px solid rgba(0,0,0,0.329);
+    margin-bottom: -10px;
+    // background-color: yellow;
+    width: 90%;
+    text-align: center;
+}
+
+.inputText{
+    position: relative;
+    top: 20px;
+}
+
+
+.errorMsg{
+    font-size: 13px;
+    color: orange;
+    position: relative;
+    left: -70px;
+    text-shadow: 0 0 3px yellow;
+    letter-spacing: 1px;
+}

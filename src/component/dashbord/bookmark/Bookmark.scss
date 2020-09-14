@@ -1,0 +1,81 @@
+.bookmarkContainer{
+    width: 100%;
+    // background-color: red;
+    // overflow-y: scroll;
+    min-height: 100vh;
+}
+
+.bm-filter{
+    // background-color: green;
+    text-align: right;
+    // height: 0vh;
+    // width: 90%;
+   padding: 10px 20px;
+   label{
+       font-size: 18px;
+       margin-right: 20px;
+       font-weight: 600;
+       text-transform: uppercase;
+       letter-spacing: 2px;
+   }
+   select{
+       width: 200px;
+       padding: 5px 10px;
+       border: none;
+       border-radius: 40px;
+       text-transform: uppercase;
+       &:focus{
+           outline: none;
+       }
+   }
+}
+
+.bookmarkBox{
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(87, 86, 86, 0.554);
+}
+
+.bookmarkContent{
+    // background-color: purple;
+    width: 95%;
+    margin:auto;
+    padding: 20px 0px;
+    h4{
+        font-weight: 500;
+    margin-bottom: 20px;
+    }
+}
+
+.optionBox{
+    position: relative;
+    left: 30px;
+    // background-color: red;
+    width: 50%;
+    line-height: 30px;
+}
+
+.quesAnsBox{
+    // background-color: white;
+    padding: 0px 30px;
+    display: flex;
+    justify-content: space-between;
+    p{
+        position: relative;
+        top: 10px;
+    }
+}
+.quesBtnBox{
+    // background-color: yellow;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.quesSolutionBox{
+    // background-color: yellowgreen;
+    padding: 10px 30px;
+    border: 1px solid rgba(128, 128, 128, 0.691);
+    margin-top: 20px;
+}

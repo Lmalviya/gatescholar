@@ -1,0 +1,36 @@
+.adminSideNavContainer{
+    padding: 10px 0px;
+    // background: wheat;
+    height: 50vh;
+    text-align: center;
+    // border: 3px solid red;
+    z-index: 10;
+}
+
+.adminHeading{
+    padding: 30px 0px;
+    border-bottom: 2px solid white;
+    margin-bottom: 20px;
+}
+
+.adminLinks{
+    // background: royalblue;
+    height: 30vh;
+    font-size: 20px;
+    font-weight: 550;
+  li{
+    //   border-bottom: 2px solid black;
+      padding: 10px 0px;
+      cursor: pointer;
+      &:hover{
+          border: 2px solid black;
+      }
+  }
+  ul{
+      list-style: none;
+      a{
+          text-decoration: none;
+          color: black;
+      }
+  }
+}

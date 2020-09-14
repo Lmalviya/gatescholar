@@ -1,0 +1,113 @@
+#updateContainer{
+    // background: black;
+    // border: 2px solid black;
+    max-height: 100vh;
+    min-height: 100vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    // z-index: 10;
+}
+
+.updateTestContainer{
+    width: 100%;
+    // min-height: 80vh;    
+    // background-color: black;  
+    position: relative;
+    top: 50px; 
+}
+
+.updateTestContent{
+    width: 70%;
+    // min-height: 80vh;
+    // background-color: rebeccapurple;
+    
+    margin: auto;
+}
+
+.update-item{
+    width: 100%;
+    margin-bottom: 30px;
+    display: block;
+    box-shadow: 0 0 5px gray;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.u-upperSection{
+    width: 100%;
+    background: #107a8b;
+    // padding: 2px 10px;
+    display: block;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: 1fr 8fr;
+}
+
+.Ucircle{
+    width: 100%;
+    height: auto;
+    align-items: center;
+    display: block;
+    padding: 5px;
+    .Ucircle-inner{
+        width: 40px;
+        height: 40px;
+        border-radius: 50px;
+        background-color: white;
+        margin: auto;
+        img{
+            width: 100%;
+            position: relative;
+            top: 5px;
+            left: 2px;
+        }
+    }
+}
+
+.Uheading{
+    h3{
+        font-size: 19px !important ; 
+        position: relative;
+        left: 10px;
+        padding: 1px 0px;
+        letter-spacing: 1px;
+        word-spacing: 5px;
+        text-transform: uppercase;
+    }
+    p{
+        position: relative;
+        left: 10px;
+        padding-top: 5px;
+        color:rgb(230, 225, 225);
+        font-size: 11px !important;
+    }
+}
+
+
+// ***************lower section*******************
+
+.u-lowerSection{
+    width: 100%;
+    // background-color: salmon;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;      //// here is problem
+    .update-btn-section{
+        padding: 5px 0px;
+        left: 200px;
+        right: 0;
+        text-align: center;
+        a{
+            text-decoration: none;
+            color: cornflowerblue;
+        }
+    }
+    .info-section{
+        padding: 15px 0px;
+        text-align: center;
+        border-right: 1px solid rgba(172, 168, 168, 0.815);
+        font-size: 11px;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+
+    }
+}

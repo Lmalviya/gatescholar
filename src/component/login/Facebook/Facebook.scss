@@ -1,0 +1,31 @@
+// $white: #fff;
+// $google-blue: #4285f4;
+// $button-active-blue: #1669F2;
+
+.facebook-btn {
+    margin: auto;
+    width: 215px;
+    height: 42px;
+    border:none;
+    border-radius: 50px;
+    background-color:#4285f4;
+    font-size: 16px;
+    font-weight: 550;
+    color: white;
+    .facebook-icon {
+      position: absolute;
+      margin-top: 4px;
+      margin-left: 5px;
+      width: 30px;
+      height: 30px;
+    }
+    &:hover {
+      box-shadow: 2px 2px 6px #4285f4;
+    }
+    &:active {
+        color: #1669F2;
+    }
+    &:focus{
+      outline: none;
+    }
+  }

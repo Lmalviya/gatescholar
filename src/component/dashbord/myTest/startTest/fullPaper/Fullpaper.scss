@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fullPaperContainer{
+background-color: white;
+
+}
+
+.fullPaperContent{
+    background-color: white; 
+    // padding: 10px 0px;
+    // border: 5px solid black;
+    margin: 0px 30px;
+    min-height:91vh;
+    max-height:91vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.sectionHeading{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    text-align: center;
+    background-color: skyblue;
+    padding: 8px;
+    font-size: 20px;
+
+}
+
+.singleQuesBox{
+// background-color: cadetblue;
+// border: 2px solid black;
+border-left: 2px solid black;
+    border-right: 2px solid black;
+padding: 10px 50px;  
+}
+
+.singleQuesOptions{
+// background-color: chartreuse;
+margin: 10px 10px;
+span{
+    margin: 0px 10px;
+}
+li{
+    list-style: none;
+    padding: 5px 0px;
+}
+}
+
+
+
+#goBackBtnId{
+    // text-align: center;
+    padding: 3px 0px;
+    position: absolute;
+    left: 50px;
+    .fa-times{
+        color: white;
+    }
+}
+.goBackBtn{
+    padding: 0px 10px ;  
+    font-size: 30px;
+    font-weight: 400 !important;
+    background:red;
+    // border: 1px solid black;
+    border: none;
+    &:active{
+        transform: scale(0.97);
+    }
+    &:focus{
+        outline: none;
+    }
+    span{
+        padding: 0px 5px;
+    }
+    a{
+        text-decoration: none;
+        color: black;
+    }
+}
+
