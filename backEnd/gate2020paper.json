@@ -1,0 +1,1371 @@
+{
+    "non_technical": [
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Raman is confident of speaking English _______ six months as he has been practising regularly _______ the last three weeks."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "during, for",
+                "B": " for, since",
+                "C": "for, in",
+                "D": " within, for"
+            },
+            "quesId": "2020_01",
+            "quesNumber": 1,
+            "quesCorrectAnswer": "D",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1XyRjkHEnG_2QAJ0YK8Wr1HXiSUfR8cao",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "His knowledge of the subject was excellent but his classroom performance was _______ ."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "extremely poor",
+                "B": "good",
+                "C": "desirable",
+                "D": "praiseworthy"
+            },
+            "quesId": "2020_02",
+            "quesNumber": 2,
+            "quesCorrectAnswer": "A",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1zNW4isKrzvDuGybm4Ijn_FqKTMgYw19n",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Select the word that fits the analogy: Cook : Cook :: Fly : _______ "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "Flyer",
+                "B": "Flying",
+                "C": "Flew",
+                "D": "Flighter"
+            },
+            "quesId": "2020_03",
+            "quesNumber": 3,
+            "quesCorrectAnswer": "A",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1Q2gHpRNK3yRR5ADzRz5yvHwnvnfnZOy_",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "The dawn of the 21st century witnessed the melting glaciers oscillating between giving too much and too little to billions of people who depend on them for fresh water. The UN climate report estimates that without deep cuts to man-made emissions, at least 30% of the northern hemisphere’s surface permafrost could melt by the end of the century. Given this situation of imminent global exodus of billions of people displaced by rising seas, nation-states need to rethink their carbon footprint for political concerns, if not for environmental ones. Which one of the following statements can be inferred from the given passage ?"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "Nation-states do not have environmental concerns.",
+                "B": "Nation-states are responsible for providing fresh water to billions of people",
+                "C": "Billions of people are responsible foe man-made emissions",
+                "D": "Billions of people are affected by melting glaciers."
+            },
+            "quesId": "2020_04",
+            "quesNumber": 4,
+            "quesCorrectAnswer": "D",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1wdmYyRImDE-dD-gAz2R1nvv8Z1mjqeR9",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1d5f729_08IBZhIQMeKg_VIWSwYtE6G5Q",
+                "quesStatement": "There are multiple routes to reach from node 1 to node 2, as shown in the network.The cost of travel on an edge between two nodes is given in rupees. Nodes ‘a’, ‘b’, ‘c’, ‘d’, ‘e’, and ‘f’ are toll booths. The toll price at toll booths marked ‘a’ and ‘e’ is Rs. 200, and is Rs. 100 for the other toll booths. Which is the cheapest route from node 1 to node 2 ?"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "1−a−c−2",
+                "B": "1−f−b−2",
+                "C": "1−b−2",
+                "D": "1−f−e−2"
+            },
+            "quesId": "2020_05",
+            "quesNumber": 5,
+            "quesCorrectAnswer": "B",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1Wd7b-YTmlnpnFTkuGp1yC9z6k3TDlmKO",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Goods and Services Tax (GST) is an indirect tax introduced in India in 2017 that is imposed on the supply of goods and services, and it subsumes all indirect taxes except few. It is a destination-based tax imposed on goods and services used, and it is not imposed at the point of origin from where goods come. GST also has a few components specific to state governments, central government and Union Territories (UTs). Which one of the following statements can be inferred from the given passage ?"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "GST is imposed on the production of goods and services.",
+                "B": "GST includes all indirect taxes.",
+                "C": "GST does not have a component specific to UT.",
+                "D": "GST is imposed at the point of usage of goods and services."
+            },
+            "quesId": "2020_06",
+            "quesNumber": 6,
+            "quesCorrectAnswer": "D",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1jsC6Byztw057-8r1HbSS7eDc8xQQTB9n",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "If P=3, R=27, T=243, then Q+S ="
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "40",
+                "B": "80",
+                "C": "90",
+                "D": "110"
+            },
+            "quesId": "2020_07",
+            "quesNumber": 7,
+            "quesCorrectAnswer": "C",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1NMHeANXSCO0qPPnSidD46A5-IWpXGcoN",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1wf5f4x52_hPbFchfzcC99j4qt-t-s5w_",
+                "quesStatement": "The figure below shows an annular ring with outer and inner as b and a, respectively. The annular space has been painted in the form of blue colour circles touching the outer and inner periphery of annular space. If maximum n number of circles can be painted, then the unpainted area available in annular space is _________ ."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "π[(b^2−a^2)−(n/4)(b−a)^2]",
+                "B": "π[(b^2−a^2)−n(b−a)^2]",
+                "C": "π[(b^2−a^2)+(n/4)(b−a)^2]",
+                "D": "π[(b^2−a^2)+n(b−a)^2]"
+            },
+            "quesId": "2020_08",
+            "quesNumber": 8,
+            "quesCorrectAnswer": "A",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1usNll-ZrjK4vQzgNVNbnOIICpXlvV4NN",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Two straight lines are drawn perpendicular to each other in X−Y plane. If α and β are the acute angles the straight lines make with the X- axis, then α+β is ________ ."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "60°",
+                "B": "90°",
+                "C": "120°",
+                "D": "180°"
+            },
+            "quesId": "2020_09",
+            "quesNumber": 9,
+            "quesCorrectAnswer": "B",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1UcY6scOLaCR-0AmeLfJB-Pkk2wvyiL-r",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1OaMeL6zcPv144ycb8MbuxkkhXZe6-A3g",
+                "quesStatement": "The total revenue of a company during 2014−2018 is shown in the bar graph. If the total expenditure of the company in each year is 500 million rupees, then the aggregate profit or loss (in percentage) on the total expenditure of the company during 2014−2018 is _________ ."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "16.67% profit",
+                "B": "16.67% loss",
+                "C": "20% profit",
+                "D": "20% loss"
+            },
+            "quesId": "2020_10",
+            "quesNumber": 10,
+            "quesCorrectAnswer": "C",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1kvFWcudyMWn1x_qtxejpUEObcXgzaxI2",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        }
+    ],
+    "technical": [
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1MJv1olQtSAtm-XBXHxlPa024R4bhJ0ka",
+                "quesStatement": "Consider the functions. Which of the above functions is/are increasing everywhere in [0, 1] ? "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "Ⅲ only",
+                "B": "Ⅱ only",
+                "C": "Ⅱ and Ⅲ only",
+                "D": "Ⅰ and Ⅲ only"
+            },
+            "quesId": "2020_11",
+            "quesNumber": 11,
+            "quesCorrectAnswer": "A",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1zUXghh3riwDsT3PptDaTVi_3fjN6AMII",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=11WMF5ruXfZHVeAdDHpXoTvtp30HvX-Fu",
+                "quesStatement": "For parameters a and b, both of which are ω(1), T(n)=T(n^1/a)+1, and T(b)=1. Then T(n) is"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_12",
+            "quesNumber": 12,
+            "quesCorrectAnswer": "A",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=16cTDjveQn46E2OcAYVKVBo1KkRwvgNOH",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1sr09pnL1aKqddt0uLlG634ECHOlb_9Tm",
+                "quesStatement": "Consider the following statements. Which of the above statements is/are TRUE ?"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "Ⅰ and Ⅱ only",
+                "B": "Ⅰ and Ⅳ only",
+                "C": "Ⅰ and Ⅲ only",
+                "D": "Ⅲ only"
+            },
+            "quesId": "2020_13",
+            "quesNumber": 13,
+            "quesCorrectAnswer": "C",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=11CuOaJRs2w_G18ouM2g0utjP71W_Y3_v",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1IOKY8bGUh9XMJx6zzL0Ad8B2QQgxkLES",
+                "quesStatement": "Consider the following data path diagram."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "2, 1, 4, 5, 3",
+                "B": "1, 2, 4, 3, 5",
+                "C": "3, 5, 2, 1, 4",
+                "D": "3, 5, 1, 2, 4"
+            },
+            "quesId": "2020_14",
+            "quesNumber": 14,
+            "quesCorrectAnswer": "C",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1dAT0-kuYZvL7WofI5NPGlg6RCDKGxc2a",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "The preorder traversal of a binary search tree is 15, 10, 12, 11, 20, 18, 16, 19. Which one of the following is the postorder traversal of the tree ?"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "10, 11, 12, 15, 16, 18, 19, 20",
+                "B": "11, 12, 10, 16, 19, 18, 20, 15",
+                "C": "20, 19, 18, 16, 15, 12, 11, 10",
+                "D": "19, 16, 18, 20, 11, 12, 10, 15"
+            },
+            "quesId": "2020_15",
+            "quesNumber": 15,
+            "quesCorrectAnswer": "B",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=10MwEZRQM0MkhfYPDM49mUszpI8l9ggXa",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1wBouanjD8uug79axGNSuCrYmtBtGxno2",
+                "quesStatement": "What is the worst case time complexity of inserting n^2 elements into an AVL-tree with n elements initially ?"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2020_16",
+            "quesNumber": 16,
+            "quesCorrectAnswer": "C",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1PnTrmtOxfNAksPSdip_ZXwCRfWqEaSSO",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Which one of the following regular expressions represents the set of all binary strings with an odd number of 1′s ?"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "((0+1)*1(0+1)*1)*10*",
+                "B": "(0*10*10*)*0*1",
+                "C": "10*(0*10*10*)*",
+                "D": "None of the above"
+            },
+            "quesId": "2020_17",
+            "quesNumber": 17,
+            "quesCorrectAnswer": "D",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=13fTsXiAAM3rDcUfLy7VteGtYLuSp8hl2",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Consider the following statements. I. If L1∪L2 is regular, then both L1 and L2 must be regular. II. The class of regular languages is closed under infinite union. Which of the above statements is/are TRUE ?"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "Ⅰ only",
+                "B": "Ⅱ only",
+                "C": "Both Ⅰ and Ⅱ",
+                "D": "Neither Ⅰ nor Ⅱ"
+            },
+            "quesId": "2020_18",
+            "quesNumber": 18,
+            "quesCorrectAnswer": "D",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1WkUD7v7Myv1EiUql873dowgkSr2MNjdE",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1O_tLc46mtMpAfMxqB-SvibT3ti8ZtLZ5",
+                "quesStatement": "Consider the following statements."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "I only",
+                "B": "I and III only",
+                "C": "Ⅱ only",
+                "D": "None of Ⅰ, Ⅱ and Ⅲ"
+            },
+            "quesId": "2020_19",
+            "quesNumber": 19,
+            "quesCorrectAnswer": "D",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1UCrlrSh_4AybfCE-bndCLo4xWj5jdpwi",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1cQcko1eoTj999cZmoGmrJJ8ldWj61l60",
+                "quesStatement": "Which of the above statements is/are TRUE ?"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "Ⅰ only",
+                "B": "Ⅱ only",
+                "C": "Ⅰ and Ⅲ only",
+                "D": "Ⅲ only"
+            },
+            "quesId": "2020_20",
+            "quesNumber": 20,
+            "quesCorrectAnswer": "C",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1mjL_AyDAiDTQzqttuRlSaEih4Pg9hKJO",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Consider allocation of memory to a new process. Assume that none of the existing holes in the memory will exactly fit the process’s memory requirement. Hence, a new hole of smaller size will be created if allocation is made in any of the existing holes. Which one of the following statement is TRUE ?"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "The hole created by first fit is always larger than the hole created by next fit.",
+                "B": "The hole created by worst fit is always larger than the hole created by first fit.",
+                "C": "The hole created by best fit is never larger than the hole created by first fit.",
+                "D": "The hole created by next fit is never larger than the hole created by best fit."
+            },
+            "quesId": "2020_21",
+            "quesNumber": 21,
+            "quesCorrectAnswer": "C",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1thUByoKX0blYjjaW6cOWLPuei0dG_v57",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1Pp0iDNbWui2Cp1-yeR2z3nS8FBMW3Mm1",
+                "quesStatement": "Consider the following statements about process state transitions for a system using preemptive scheduling.Which of the above statements are TRUE ?"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "I, II, and III only",
+                "B": "II and III only",
+                "C": "I, II, and IV only",
+                "D": "I, II, III and IV only"
+            },
+            "quesId": "2020_22",
+            "quesNumber": 22,
+            "quesCorrectAnswer": "C",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1O0ChKoQ26vwFhwH1VqcbKVk4qznJFVNQ",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1uc6vaOZWOgBIj5iLvGoVc63fYxS95dOl",
+                "quesStatement": "Consider a relational database containing the following schemas."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "4",
+                "B": "5",
+                "C": "0",
+                "D": "2"
+            },
+            "quesId": "2020_23",
+            "quesNumber": 23,
+            "quesCorrectAnswer": "A",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1mVcXQucZukXL-NzbxXJK8xQWzlTdnD9f",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Which one of the following is used to represent the supporting many-one relationships of a weak entity set in an entity-relationship diagram ?"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "Diamonds with double/bold border",
+                "B": "Rectangles with double/bold border",
+                "C": "Ovals with double/bold border",
+                "D": "Ovals that contain underlined identifiers"
+            },
+            "quesId": "2020_24",
+            "quesNumber": 24,
+            "quesCorrectAnswer": "A",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1JfSvXGRFxIUGqrJbhU9FbCWbKp652jWm",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=12aqxK1h0Z-Iiw8vBz8z8cnXepqKt6VAq",
+                "quesStatement": "Consider the following statements about the functionality of an IP based router."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "I and II only",
+                "B": "I only",
+                "C": "II and III only",
+                "D": "II only"
+            },
+            "quesId": "2020_25",
+            "quesNumber": 25,
+            "quesCorrectAnswer": "D",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1tLM6N3KUBhfeC-eZDGcUwlaKnuZ1vJj6",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1rhIoIdmKhDKs6gqdwQ9twTV-bP_Fpn59",
+                "quesStatement": "What is the worst case time complexity of inserting n elements into an empty linked list, if the linked list needs to be maintained in sorted order ?"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2020_26",
+            "quesNumber": 26,
+            "quesCorrectAnswer": "C",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1g2UbE1zDYEHlj9dbf_QajuOCDWzrhm0Y",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Let R be the set of all binary relations on the set {1, 2, 3}. Suppose a relation is chosen from R at random. The probability that the chosen relation is reflexive (round off to 3 decimal places) is ________ ."
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2020_27",
+            "quesNumber": 27,
+            "quesCorrectAnswer": "0.125",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=19JjKIXEDucCk4kMmDWqnHm_hKtM49Dzx",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Let G be a group of 35 elements. Then the largest possible size of a subgroup of G other than G itself is ________ ."
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2020_28",
+            "quesNumber": 28,
+            "quesCorrectAnswer": "7",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1WKcSemf5qGo5rcedp0fHqL4jwtsopts0",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "A multiplexer is placed between a group of 32 registers and an accumulator to regulate data movement such that at any given point in time the content of only one register will move to the accumulator. The number of select lines needed for the multiplexer is _________ . "
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2020_29",
+            "quesNumber": 29,
+            "quesCorrectAnswer": "5",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=15p5RswJ47Il44h1rInhFe8t4Qp_M49Vr",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "If there are m input lines n output lines for a decoder that is used to uniquely address a byte addressable 1 KB RAM, then the minimum value of m+n is ________ ."
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2020_30",
+            "quesNumber": 30,
+            "quesCorrectAnswer": "1034",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=13jtAK5wrLXZhDHoXeLsaRTXstwwIvP14",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "A direct mapped cache memory of 1 MB has a block size of 256 bytes. The cache has an access time of 3 ns and a hit rate of 94%. During a cache miss, it takes 20 ns to bring the first word of a block from the main memory, while each subsequent word takes 5 ns. The word size is 64 bits. The average memory access time in ns (round off to 1 decimal place) is ________ ."
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2020_31",
+            "quesNumber": 31,
+            "quesCorrectAnswer": "13.5",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=10NZY4rXrlo-9OkTElP9rDbYvtUTLpFjs",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1nJelKVcPHSdefQQv05MVshe10QR4MPSO",
+                "quesStatement": "Consider the following C program. "
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2020_32",
+            "quesNumber": 32,
+            "quesCorrectAnswer": "19",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1m8PgOVlXW1MY-H8gQjOwIBtAZN-yZIuZ",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Consider a double hashing scheme in which the primary hash function is h1(k) = k mod 23, and the secondary hash function is h2(k) = 1+(k mod 19). Assume that the table size is 23. Then the address returned by probe 1 in the probe sequence (assume that the probe sequence begins at probe 0) for key value k = 90 is ________ ."
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2020_33",
+            "quesNumber": 33,
+            "quesCorrectAnswer": "13",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1N7iSIl9lk38tnY7I9t-RfNA93DhVsWsw",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1Vmqy2ff8HxL0ORHUp0LqNPy2T40dke0o",
+                "quesStatement": "Consider the following grammar."
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2020_34",
+            "quesNumber": 34,
+            "quesCorrectAnswer": "7",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=13tMMeLb5MZ8XPeEdqlARjdRjcTDI5_MD",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Assume that you have made a request for a web page through your web browser to a web server. Initially the browser cache is empty. Further, the browser is configured to send HTTP requests in non-persistent mode. The web page contains text and five very small images.The minimum number of TCP connections required to display the web page completely in your browser is ________ . "
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2020_35",
+            "quesNumber": 35,
+            "quesCorrectAnswer": "6",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1alnK-bevgMPlOoEzTUt22XdSWaR1Fgl2",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1pv396HCIzvDDkEA8OSN1Mi9CkEGQ9070",
+                "quesStatement": "Which of the following languages are undecidable? Note that ⟨M⟩ indicates encoding of the Turing machine M."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "L1, L3, and L4 only",
+                "B": "L1 and L3 only",
+                "C": "L2 and L3 only",
+                "D": "L2, L3, and L4 only"
+            },
+            "quesId": "2020_36",
+            "quesNumber": 36,
+            "quesCorrectAnswer": "A",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1ENXsNyIs7S-AyjsK7ZHTiXNizg1su1vy",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1Wa1f5Vsav_WJ5aMi3bbEnAsV5W0YjW_1",
+                "quesStatement": "Let A and B be two n×n matrices over real numbers. Let rank(M) and det(M) denote the rank and determinant of a matrix M, respectively. Consider the following statements."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "I and II only",
+                "B": "I and IV only",
+                "C": "II and III only",
+                "D": "III and IV only"
+            },
+            "quesId": "2020_37",
+            "quesNumber": 37,
+            "quesCorrectAnswer": "C",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1AEPCRclLssQqKCG_T6lQREnzd3mFzzGl",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1-MwrntNXFn8DN_IyXGmNhJz8DpNvY-0_",
+                "quesStatement": "Consider the Boolean function z(a,b,c)."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "z = ∑(0, 1, 3, 7)",
+                "B": "z = ∑(1, 4, 5, 6, 7)",
+                "C": "z = ∑(2, 4, 5, 6, 7)",
+                "D": "z = ∑(2, 3, 5)"
+            },
+            "quesId": "2020_38",
+            "quesNumber": 38,
+            "quesCorrectAnswer": "B",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1Uqw_Hz2AgS4rASc3u4waiHXysEJkvBNq",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Consider three registers R1, R2, and R3 that store numbers in IEEE−754 single precision floating point format. Assume that R1 and R2 contain the values (in hexadecimal notation) 0x42200000 and 0xC1200000, respectively. If R3 = R1 / R2, what is the value stored in R3 ?"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "0x40800000",
+                "B": "0xC0800000",
+                "C": "0x83400000",
+                "D": "0xC8500000"
+            },
+            "quesId": "2020_39",
+            "quesNumber": 39,
+            "quesCorrectAnswer": "B",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1mjB5Cpthh-f-ed_wFHYXhusQY7FzCM5X",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1Nr9eqFAL_PtNo3fgX2M6m824oxrn2a9u",
+                "quesStatement": "A computer system with a word length of 32 bits has a 16 MB byte- addressable main memory and a 64 KB, 4-way set associative cache memory with a block size of 256 bytes. Consider the following four physical addresses represented in hexadecimal notation. Which one of the following is TRUE ?"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A1 and A4 are mapped to different cache sets.",
+                "B": "A2 and A3 are mapped to the same cache set.",
+                "C": "A3 and A4 are mapped to the same cache set.",
+                "D": "A1 and A3 are mapped to the same cache set."
+            },
+            "quesId": "2020_40",
+            "quesNumber": 40,
+            "quesCorrectAnswer": "B",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1BcCSV5u5IZZ6HtYHDjoAyMLkJLqPFd-S",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Let G = (V, G) be a weighted undirected graph and let T be a Minimum Spanning Tree (MST) of G maintained using adjacency lists. Suppose a new weighed edge (u, v) ∈ V×V is added to G. The worst case time complexity of determining if T is still an MST of the resultant graph is"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "Θ(∣E∣ + ∣V∣)",
+                "B": "Θ(∣E∣.∣V∣)",
+                "C": "Θ(|E| log ∣V∣)",
+                "D": "Θ(∣V∣)"
+            },
+            "quesId": "2020_41",
+            "quesNumber": 41,
+            "quesCorrectAnswer": "D",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1-kYkdIOnTEVAdVH2827iSpaAPMem4hV2",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=19NLvcKRqjLRYYqfNXAmxPbvtDaP_oxpb",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "L1 is regular and L2 is context- free",
+                "B": "L1 context- free but not regular and L2 is context-free",
+                "C": "Neither L1 nor L2 is context- free",
+                "D": "L1 context- free but L2 is not context-free"
+            },
+            "quesId": "2020_42",
+            "quesNumber": 42,
+            "quesCorrectAnswer": "A",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1qnn5_Hzafd13BYmL0aL7Ff7mvDaP8Plp",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1EZ0p6VVzHwT29HanNas-M71wrak9QLvG",
+                "quesStatement": "Consider the productions A → PQ and A → XY. Each of the five non-terminals A,P,Q,X, and Y has two attributes: s is a synthesized attribute, and i is an inherited attribute. Consider the following rules."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "Both Rule 1 and Rule 2 are L-attributed",
+                "B": "Only Rule 1 is L-attributed",
+                "C": "Only Rule 2 is L-attributed",
+                "D": "Neither Rule 1 nor Rule 2 is L-attributed"
+            },
+            "quesId": "2020_43",
+            "quesNumber": 43,
+            "quesCorrectAnswer": "B",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=14HpKI0bCI2jety0QvDnSqxzz0_4tbZyC",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1_u1uLXBUdqyPnT619pLJZzKNdkJbrFSG",
+                "quesStatement": "Each of a set of n processes executes the following code using two semaphores a and b initialized to 1 and 0, respectively. Assume that count is a shared variable initialized to 0 and not used in CODE SECTION P."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "It ensures that no process executes CODE SECTION Q before every process has finished CODE SECTION P",
+                "B": "It ensures that two processes are in CODE SECTION Q at any time",
+                "C": "It ensures that all processes execute CODE SECTION P mutually exclusively",
+                "D": "It ensures that at most n−1 processes are in CODE SECTION P at any time"
+            },
+            "quesId": "2020_44",
+            "quesNumber": 44,
+            "quesCorrectAnswer": "A",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1YqrQxDrkODumQ5jP2thNcQvLlkNgxNo3",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Consider the following five disk five disk access requests of the form (request id, cylinder number) that are present in the disk scheduler queue at a given time. (P, 155), (Q, 85), (R, 110), (S, 30), (T, 115). Assume the head is positioned at cylinder 100. The scheduler follows Shortest Seek Time First scheduling to service the requests. Which one of the following statements is FALSE ?  "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "T is serviced before P",
+                "B": "Q is serviced after S, but before T",
+                "C": "The head reverses its direction of movement between servicing of Q and P",
+                "D": "R is serviced before P"
+            },
+            "quesId": "2020_45",
+            "quesNumber": 45,
+            "quesCorrectAnswer": "B",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1pLv1BmTTwACAbtYfxdzcd9cXG5r0myiC",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Consider a relational table R that is in 3NF, but not in BCNF. Which one of the following statements is TRUE ?"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "R has a nontrivial functional dependency X→A, where X is not a superkey and A is a prime attribute",
+                "B": "R has a nontrivial functional dependency X→A, where X is not a superkey and A is a non-prime attribute and X is not a proper subset of any key",
+                "C": "R has a nontrivial functional dependency X→A, where X is not a superkey and A is a non-prime attribute and X is a proper subset of some key",
+                "D": "A cell in R holds a set instead of an atomic value"
+            },
+            "quesId": "2020_46",
+            "quesNumber": 46,
+            "quesCorrectAnswer": "A",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1zjZfQ0PObPcSQJjUStdiPwU_a2Luy_lM",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=14Hvj4iJWHkuJKraFCpIIi53VczLFiIKM",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2020_47",
+            "quesNumber": 47,
+            "quesCorrectAnswer": "A",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1EXB-jT29H2SScFi9yAcCbw5rXazoFAVp",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1mOT6ge8yf7dAnlEr3bSZoL0YoNh5ikQg",
+                "quesStatement": "An organization requires a range of IP address to assign one to each of its 1500 computers. The organization has approached an Internet Service Provider (ISP) for this task. The ISP uses CIDR and serves the requests from the available IP address space 202.61.0.0/17. The ISP wants to assign an address space to the organization which will minimize the number of routing entries in the ISP’s router using route aggregation. Which of the following address spaces are potential candidates from which the ISP can allot any one of the organization ?"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "I and II only",
+                "B": "II and III only",
+                "C": "III and IV only",
+                "D": "I and IV only"
+            },
+            "quesId": "2020_48",
+            "quesNumber": 48,
+            "quesCorrectAnswer": "B",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1v7jdsquxRSdu2tGGuCi7gy5dGKb7wFBf",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Which one of the following predicate formulae is NOT logically valid ? Note that W is a predicate formula without any free occurrence of x."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "∀x(p(x) ∨ W) ≡ ∀x(px) ∨ W",
+                "B": "∃x(p(x) ∧ W) ≡ ∃xp(x) ∧ W",
+                "C": "∀x(p(x) → W) ≡ ∀xp(x) → W",
+                "D": "∃x(p(x) → W) ≡ ∀xp(x) → W"
+            },
+            "quesId": "2020_49",
+            "quesNumber": 49,
+            "quesCorrectAnswer": "C",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1WhTmsRXu0HXfTghHMb3HKhlKNXBhVXdU",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Let G=(V,E) be a directed, weighted graph with weight function w:E→R. For some function f:V→R, for each edge (u,v)∈E, define w′(u,v) as w(u,v)+f(u)−f(v). Which one of the options completes the following sentence so that it is TRUE ? “The shortest paths in G under w are shortest paths under w′ too, _________”."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "for every f:V→R",
+                "B": "if and only if ∀u∈V, f(u) is positive",
+                "C": "if and only if ∀u∈V, f(u) is negative",
+                "D": "if and only if f(u) is the distance from s to u in the graph obtained by adding a new vertex s to G and edges of zero weight from s to every vertex of G"
+            },
+            "quesId": "2020_50",
+            "quesNumber": 50,
+            "quesCorrectAnswer": "A",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=14MEOdXL5KhQPggaYM6xq96Yo02iyE6Qx",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "In a balanced binary search tree with n elements, what is the worst case time complexity of reporting all elements in range [a,b] ? Assume that the number of reported elements is k."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "Θ(log n)",
+                "B": "Θ(log(n)+k)",
+                "C": "Θ(k log n)",
+                "D": "Θ(n log k)"
+            },
+            "quesId": "2020_51",
+            "quesNumber": 51,
+            "quesCorrectAnswer": "B",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1KHibLW1EGEbRNcR1BW2mj-GN0KVgsaCx",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "The number of permutations of the characters in LILAC so that no character appears in its original position, if the two L’s are indistinguishable, is ________ . "
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2020_52",
+            "quesNumber": 52,
+            "quesCorrectAnswer": "12",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1U9y6kiJEp-OuYujAm2xXJFVnG00fab2g",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Consider a non-pipelined processor operating at 2.5 GHz. It takes 5 clock cycles to complete an instruction. You are going to make a 5- stage pipeline out of this processor. Overheads associated with pipelining force you to operate the pipelined processor at 2 GHz. In a given program, assume that 30% are memory instructions, 60% are ALU instructions and the rest are branch instructions. 5% of the memory instructions cause stalls of 50 clock cycles each due to cache misses and 50% of the branch instructions cause stalls of 2 cycles each. Assume that there are no stalls associated with the execution of ALU instructions. For this program, the speedup achieved by the pipelined processor over the non-pipelined processor (round off to 2 decimal places) is __________ ."
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2020_53",
+            "quesNumber": 53,
+            "quesCorrectAnswer": "2.16",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1aGM1ATCy05Y4uJKjkFPWDDrnIS36GsqU",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "A processor has 64 registers and uses 16-bit instruction format. It has two types of instructions: I-type and R-type. Each I-type instruction contains an opcode, a register name, and a 4-bit immediate value. Each R-type instruction contains an opcode and two register names. If there are 8 distinct I-type opcodes, then the maximum number of distinct R-type opcodes is _______ ."
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2020_54",
+            "quesNumber": 54,
+            "quesCorrectAnswer": "14",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=12E0qnKcHd-H24SmgNHugp4752Y8IgKlE",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "For n>2, let a∈{0, 1}n be a non-zero vector. Suppose that x is chosen uniformly at random from {0,1}n. Then, the probability that Σ(from i=1 to i=n)(ai.xi) is an odd number is _________ . "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2020_55",
+            "quesNumber": 55,
+            "quesCorrectAnswer": "0.50",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=16gXKo7vTHKoDrddF53MBSj7_fpRUuoST",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1mq-AW4dGXh1mwDylS7IbEA_g97BAE87N",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2020_56",
+            "quesNumber": 56,
+            "quesCorrectAnswer": "55",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=16QtEnumrp0sByz0iHEyRTatizs0Qtm2I",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Consider the array representation of a binary min-heap containing 1023 elements. The minimum number of comparisons required to find the maximum in the heap is _________ ."
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2020_57",
+            "quesNumber": 57,
+            "quesCorrectAnswer": "511",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1Iib1I7dKMM0s8JAAVcEmTJFb0i0VwrIK",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1fujPEslzI_vpKU9U-KncGW464ocQPPbK",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2020_58",
+            "quesNumber": 58,
+            "quesCorrectAnswer": "81",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1dH7KknzbvqT2fTJVJmyQbfmsmsnQAdd2",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Consider a graph G=(V, E), where V = { v1,v2,…,v100 }, E={ (vi, vj) ∣ 1≤ii, vj) is ∣i–j∣. The weight of minimum spanning tree of G is ________ . "
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2020_59",
+            "quesNumber": 59,
+            "quesCorrectAnswer": "99",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1QOa6asCp-nunpfO2acnWxdlR_r9BDPAb",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1qs6y5Iz7El3J8BOHkxzYhcIlwVFU9EzK",
+                "quesStatement": "Consider the following set of processes, assumed to have arrived at time 0. Consider the CPU scheduling algorithms Shortest Job First (SJF) and Round Robin (RR). For RR, assume that the processes are scheduled in the order P1, P2, P3, P4."
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2020_60",
+            "quesNumber": 60,
+            "quesCorrectAnswer": "5.25",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1uY_sJ9hOEH75MwO79ndm44tmHZhIolrq",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1yp5CYsv0ZYmqu-takxVUptW_V2w8NWJU",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2020_61",
+            "quesNumber": 61,
+            "quesCorrectAnswer": "6",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1IqNY-TEOd5ht_ZHAki0b4lpajDZKMZLq",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Graph G is obtained by adding vertex s to K3,4 and making s adjacent to every vertex of K3,4. The minimum number of colours required to edge-colour G is _________ . "
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2020_62",
+            "quesNumber": 62,
+            "quesCorrectAnswer": "7",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1q2QpCL-PKq5PYqQVRHes8BbaWb_MB5r-",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Consider a paging system that uses 1-level page table residing in main memory and a TLB for address translation. Each main memory access takes 100 ns and TLB lookup takes 20 ns. Each page transfer to/from the disk takes 5000 ns. Assume that the TLB hit ratio is 95%, page fault rate is 10%. Assume that for 20% of the total page faults, a dirty page has to be written back to disk before the required page is read from disk. TLB update time is negligible. The average memory access time in ns (round off to 1 decimal places) is ___________ ."
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2020_63",
+            "quesNumber": 63,
+            "quesCorrectAnswer": "154.5",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1jXCpyWPo3pMaIGvgs_Lz1FDFWSNwBKVx",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Consider a database implemented using B+ tree for file indexing and installed on a disk drive with block size of 4 KB. The size of search key is 12 bytes and the size of tree/disk pointer is 8 bytes. Assume that the database has one million records. Also assume that no node of the B+ tree and no records are present initially in main memory. Consider that each record fits into one disk block. The minimum number of disk accesses required to retrieve any record in the database is ___________ ."
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2020_64",
+            "quesNumber": 64,
+            "quesCorrectAnswer": "4",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1eUhhJ60-SvZIqq6ExuRF-hn8CaMddRrr",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Consider a TCP connection between a client and a server with the following specifications; the round trip time is 6 ms, the size of the receiver advertised window is 50 KB, slow-start threshold at the client is 32 KB, and the maximum segment size is 2 KB. The connection is established at time t=0. Assume that there are no timeouts and errors during transmission. Then the size of the congestion window (in KB) at time t+60 ms after all acknowledgements are processed is _________ ."
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2020_65",
+            "quesNumber": 65,
+            "quesCorrectAnswer": "44",
+            "SolutionImage":"https://drive.google.com/uc?export=view&id=1O9O37DrdynCUEzCbmMQ8k07BP_2OJua4",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        }
+    ]
+}

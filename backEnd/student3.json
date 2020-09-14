@@ -1,0 +1,1371 @@
+{
+    "non_technical": [
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_01",
+            "quesNumber": 1,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_02",
+            "quesNumber": 2,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_03",
+            "quesNumber": 3,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_04",
+            "quesNumber": 4,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_05",
+            "quesNumber": 5,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_06",
+            "quesNumber": 6,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_07",
+            "quesNumber": 7,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_08",
+            "quesNumber": 8,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_09",
+            "quesNumber": 9,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_10",
+            "quesNumber": 10,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        }
+    ],
+    "technical": [
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_01",
+            "quesNumber": 1,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2019_02",
+            "quesNumber": 2,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_03",
+            "quesNumber": 3,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_04",
+            "quesNumber": 4,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_05",
+            "quesNumber": 5,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_06",
+            "quesNumber": 6,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2019_07",
+            "quesNumber": 7,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_08",
+            "quesNumber": 8,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2019_09",
+            "quesNumber": 9,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2019_10",
+            "quesNumber": 10,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_11",
+            "quesNumber": 11,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_12",
+            "quesNumber": 12,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2019_13",
+            "quesNumber": 13,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_14",
+            "quesNumber": 14,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_15",
+            "quesNumber": 15,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_16",
+            "quesNumber": 16,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_17",
+            "quesNumber": 17,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2019_18",
+            "quesNumber": 18,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_19",
+            "quesNumber": 19,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_20",
+            "quesNumber": 20,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2019_21",
+            "quesNumber": 21,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2019_22",
+            "quesNumber": 22,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_23",
+            "quesNumber": 23,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2019_24",
+            "quesNumber": 24,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_25",
+            "quesNumber": 25,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_26",
+            "quesNumber": 26,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_27",
+            "quesNumber": 27,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2019_28",
+            "quesNumber": 28,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_29",
+            "quesNumber": 29,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2019_30",
+            "quesNumber": 30,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_31",
+            "quesNumber": 31,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2019_32",
+            "quesNumber": 32,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_33",
+            "quesNumber": 33,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2019_34",
+            "quesNumber": 34,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2019_35",
+            "quesNumber": 35,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_36",
+            "quesNumber": 36,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_37",
+            "quesNumber": 37,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2019_38",
+            "quesNumber": 38,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_39",
+            "quesNumber": 39,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2019_40",
+            "quesNumber": 40,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_41",
+            "quesNumber": 41,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2019_42",
+            "quesNumber": 42,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_43",
+            "quesNumber": 43,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2019_44",
+            "quesNumber": 44,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2019_45",
+            "quesNumber": 45,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_46",
+            "quesNumber": 46,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_47",
+            "quesNumber": 47,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2019_48",
+            "quesNumber": 48,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_49",
+            "quesNumber": 49,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2019_50",
+            "quesNumber": 50,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_51",
+            "quesNumber": 51,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2019_52",
+            "quesNumber": 52,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2019_53",
+            "quesNumber": 53,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2019_54",
+            "quesNumber": 54,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2019_55",
+            "quesNumber": 55,
+            "quesCorrectAnswer": "",
+            "SolutionImage": "",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0,
+            "currentStatus": "",
+            "chooseOption": ""
+        }
+    ]
+}

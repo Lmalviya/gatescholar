@@ -1,0 +1,1372 @@
+{
+    "non_technical": [
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "What is the missing number in the following sequence?  2, 12, 60, 240, 720, 1440, _______, 0 "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "2880",
+                "B": "1440",
+                "C": "720",
+                "D": "0"
+            },
+            "quesId": "2018_01",
+            "quesNumber": 1,
+            "quesCorrectAnswer": "B",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1ygz1F5oBT23UtRQG8kcqEACJMrl1l06X",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "“From where are they bringing their books? ________ bringing ________ books from _________.”  The words that best fill the blanks in the above sentence are   "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "Their, they’re there ",
+                "B": "They’re, their, there",
+                "C": "There, their, they’re ",
+                "D": "They’re, there, there"
+            },
+            "quesId": "2018_02",
+            "quesNumber": 2,
+            "quesCorrectAnswer": "B",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1GK_NPZm8C0rQ12VvFmz2sMms8Y3bWM0t",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "What would be the smallest natural number which when divided either by 20 or by 42 or by 76 leaves a remainder of 7 in each case? "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "3047",
+                "B": "6047",
+                "C": "7987",
+                "D": "63847"
+            },
+            "quesId": "2018_03",
+            "quesNumber": 3,
+            "quesCorrectAnswer": "C",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=17Wnmg-uJIyWOwnoJ8QzHxbdLlQkMcxpF",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "“A __________ investigation can sometimes yield new facts, but typically organized ones are more successful.” "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "meandering",
+                "B": "timely",
+                "C": "consistent",
+                "D": "systematic"
+            },
+            "quesId": "2018_04",
+            "quesNumber": 4,
+            "quesCorrectAnswer": "A",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1NSQ8pST6Wt7Ewc-qLNlIRk7VcZTXG7M1",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1Ir4EKnteIshYg2dv6SXAIk4Ptyrq3EMe",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_05",
+            "quesNumber": 5,
+            "quesCorrectAnswer": "D",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=18mRSh8vtTy-2X0AGF2rJCuPs4jDyNK3K",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1bhtMb_3ayY01S_geWlultBVVtK8Ievos",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_06",
+            "quesNumber": 6,
+            "quesCorrectAnswer": "C",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1w2eC7h1amVrRC5WCa5FyvN8df02jbESB",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },{
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1xxleIfKPK7DscSLO1YJLnAxEb77hmKdy",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_07",
+            "quesNumber": 7,
+            "quesCorrectAnswer": "B",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=145-uQje0CBiI3pS-L5OwjHX2KmlOfVFg",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1fOtsk97bTewvGeUh_SiILQW6xjn-mT_j",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_08",
+            "quesNumber": 8,
+            "quesCorrectAnswer": "A",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1kZdZQW4yOeVQ3l6MAhVKrzh3fOnQruhv",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "A six sided unbiased die with four green faces and two red faces is rolled seven times. Which of the following combinations is the most likely outcome of the experiment? "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "Three green faces and four red faces.",
+                "B": "Four green faces and three red faces",
+                "C": "Five green faces and two red faces. ",
+                "D": "Six green faces and one red face. "
+            },
+            "quesId": "2018_09",
+            "quesNumber": 9,
+            "quesCorrectAnswer": "C",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1pD4lKa0W7btbJcBBk1ZYGQn7YytTqObz",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "In a party, 60% of the invited guests are male and 40% are female. If 80% of the invited guests attended the party and if all the invited female guests attended, what would be the ratio of males to females among the attendees in the party? "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "2:3",
+                "B": "1:1",
+                "C": "3:2",
+                "D": "2:1"
+            },
+            "quesId": "2018_10",
+            "quesNumber": 10,
+            "quesCorrectAnswer": "B",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1xGpbGFhmr92hvIVm74MmKY1OdTYgmyey",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        }
+        
+        
+    ],
+    "technical": [
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Consider a long-lived TCP session with an end-to-end bandwidth of 1 Gbps (= 109 bits-persecond). The session starts with a sequence number of 1234. The minimum time (in seconds, rounded to the closest integer) before this sequence number can be used again is _________. "
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2018_11",
+            "quesNumber": 11,
+            "quesCorrectAnswer": "34.35",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1CtU27juRocZB4D4gefrc5kBP_ccuiV0m",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1GZQ3bZOtMWPyDT96Q5fdK_gL8f5-6Ds5",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2018_12",
+            "quesNumber": 12,
+            "quesCorrectAnswer": "2",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1p9u5X1mlckmKgNtOSmNzBs1MlOvwQ0wI",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1j6PdMIWUD9bpLFNFCM8udcxDxg14CJwd",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_13",
+            "quesNumber": 13,
+            "quesCorrectAnswer": "D",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1WC_r275mLcOTwvHcUtT6XVLDMcBRabCa",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "A 32-bit wide main memory unit with a capacity of 1 GB is built using 256 M *4-bit  DRAM chips. The number of rows of memory cells in the DRAM chip is 2^14. The time taken to perform one refresh operation is 50 nanoseconds. The refresh period is 2 milliseconds. The percentage (rounded to the closest integer) of the time available for performing the memory read/write operations in the main memory unit is ____________. "
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2018_14",
+            "quesNumber": 14,
+            "quesCorrectAnswer": "59",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1XUdDUs1iPjv8_yl8n1WTpdPh3CmcCi8e",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1FpbBp0TuUanUuux9rlfWYVxo3-LqlMxV",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_15",
+            "quesNumber": 15,
+            "quesCorrectAnswer": "D",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1GERzLJqBSwvY1sdi4segg6uCJujIIuyM",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1BdzmgIoDvQsSni-ehpgQ9Xlqz1WD5-BC",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2018_16",
+            "quesNumber": 16,
+            "quesCorrectAnswer": "3",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1deUygWfSFeCh1iAxZ-4cK8NcAy0NyKVE",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "In an Entity-Relationship (ER) model, suppose R is a many-to-one relationship from entity set E1 to entity set E2. Assume that E1 and E2 participate totally in R and that the cardinality of E1 is greater than the cardinality of E2.  Which one of the following is true about R?"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "Every entity in E1 is associated with exactly one entity in E2",
+                "B": "Some entity in E1 is associated with more than one entity in E2",
+                "C": "Every entity in E2 is associated with exactly one entity in E1",
+                "D": "Every entity in 2 is associated with at most one entity in E1. "
+            },
+            "quesId": "2018_17",
+            "quesNumber": 17,
+            "quesCorrectAnswer": "A",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=16YzsiHsdthWlwUuuxIHE3l4kAA1a5UZK",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1suHuQvhiUIE3BhHfF8b9pgZ6eQ3L63ho",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_18",
+            "quesNumber": 18,
+            "quesCorrectAnswer": "A",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1FBEyMp2SqabPS5QEKpgFM2f8eXNji6QZ",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1UY2VdDg68KkerE2y4442LFmGlCZWUDt9",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2018_19",
+            "quesNumber": 19,
+            "quesCorrectAnswer": "0.289",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1ee4j2ioFCJ1J3Tflnf81b4dCMvB8vbky",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1WI_GMI4BGArxMabaNYcMHGoRouy_fcg1",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_20",
+            "quesNumber": 20,
+            "quesCorrectAnswer": "A",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1CRn-6hxVT5Arnc-4_Jq5kdS3w-Uh_-NU",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1jUUeYMBFOvBxgq8L0BAWcKornmzg_Aw0",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_21",
+            "quesNumber": 21,
+            "quesCorrectAnswer": "C",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1XRox0ur7qyQg9VVYKB_9gWU_adeAE9M4",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Two people. P and Q, decide to independently roll two identical dice, each with 6 faces. Numbered 1 to 6. The person with the lower number wins. In case of a tie, they roll the dice repeatedly until there is no tie. Define a trial as a throw of the dice by P and Q. Assume that all 6 numbers on each dice are equi-probable and that all trials are independent. The probability (rounded to 3 decimal places) that one of them wins on the third trial is ___________. "
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2018_22",
+            "quesNumber": 22,
+            "quesCorrectAnswer": "0.023",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1igc0G3-0LLjoDQTYg6uwdYg54jWqBuYH",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1i6EGy3rIttyACExqIfmKKwIvRcpVwNt4",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_23",
+            "quesNumber": 23,
+            "quesCorrectAnswer": "D",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1oOsHxgexeSpYesXh-Jyv2SaCHJcEgU1u",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1Oejrn9o55SsX8-FyD8hcmZN7HN5jA_rn",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_24",
+            "quesNumber": 24,
+            "quesCorrectAnswer": "B",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1T2DksJlgi7ABgbGJ9sws4VIhyagK9hKr",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "The postorder traversal of a binary tree is 8, 9, 6, 7, 4, 5, 2, 3, 1. The inorder traversal of the same tree is 8, 6, 9, 4, 7, 2, 5, 1, 3. The height of a tree is the length of longest path from the root to any leaf. The height of the binary tree above is __________. "
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2018_25",
+            "quesNumber": 25,
+            "quesCorrectAnswer": "4",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1_SjM2Vd8MUv5WF28lq_z_3EgxZierp1U",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": " Let G be a finite group on 84 elements. The size of a largest possible proper subgroup of G is _________."
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2018_26",
+            "quesNumber": 26,
+            "quesCorrectAnswer": "42",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1i2t0YggAqgs2fXSrqM9h-V3s9knUL6jz",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1m453R_ENC67NsXTZkqT_9Nflj7BDTMmd",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_27",
+            "quesNumber": 27,
+            "quesCorrectAnswer": "C",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1Yoo1cn892COkxtFvoN7H1HLRTbsMnFoX",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1-Jk6IuLKUR_wwGpXuZL8ZPbN-moQ87-T",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_28",
+            "quesNumber": 28,
+            "quesCorrectAnswer": "D",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1pQIvy89VKlah8yLbuZ9qliWw2KAzcQu8",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Consider a system with 3 processes that share 4 instances of the same resource type. Each process can request a maximum of K instances. Resource instances can be requested and released only one at a time. The largest value of K that will always avoid deadlock is ___________."
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2018_29",
+            "quesNumber": 29,
+            "quesCorrectAnswer": "2",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1rRIcm6vPtRpMfc_q2rRJ9krEWQXCqCYM",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1SewPp4fl9ikP39ZMyEK8kMIoaB423lID",
+                "quesStatement":null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_30",
+            "quesNumber": 30,
+            "quesCorrectAnswer": "D",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1-F3ylgO-7D5Hixoof_686UY5_8iJDyKp",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "The set of all recursively enumerable languages is"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "closed under complementation ",
+                "B": "closed under intersection",
+                "C": "a subset of the set of all recursive languages",
+                "D": "an uncountable set"
+            },
+            "quesId": "2018_31",
+            "quesNumber": 31,
+            "quesCorrectAnswer": "B",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1KpBnsAq4z3IjTkWv2vg4of1aomiFOuCh",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1WeakDfevi2JTG6D3SWpo5vLVDOTmERRR",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2018_32",
+            "quesNumber": 32,
+            "quesCorrectAnswer": "3",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1u33bFv3kb0W5sBA7raONM20pVks6yRsz",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1ekx8yXwh9a-RZiJ2BLll0CORaI53kykh",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_33",
+            "quesNumber": 33,
+            "quesCorrectAnswer": "B",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1REzAM8WDLimzqh-l5_YRernS-DjjHK0M",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1FnNW2uvPsDL9zbIqSWKz789fOvJLB9Hc",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2018_34",
+            "quesNumber": 34,
+            "quesCorrectAnswer": "4",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1iqKAfaWCDqGV6yPQtitPL0haQPcFLAV6",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Which one of the following statements is FALSE?"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "Context-free grammar can be used to specify both lexical and syntax rules",
+                "B": "Type checking is done before parsing",
+                "C": "High-level language programs can be translated to different Intermediate Representations. ",
+                "D": "Arguments to a function can be passed using the program stack."
+            },
+            "quesId": "2018_35",
+            "quesNumber": 35,
+            "quesCorrectAnswer": "B",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1wAznvmAchJhtcZhFGrMVhUfc2Id-oSbW",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Consider an IP packet with a length of 4500 bytes that includes a 20-byte IPv4 header and a 40-byte TCP header. The packet is forwarded to an IPv4 router that supports a Maximum Transmission Unit (MTU) of 600 bytes. Assume that the length of the IP header in all the outgoing fragments of this packet is 20 bytes. Assume that the fragmentation offset value stored in the first fragment offset value stored in the first fragment is 0.  The fragmentation offset value stored in the third fragment is _________"
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2018_36",
+            "quesNumber": 36,
+            "quesCorrectAnswer": "144",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1uVoZU15KMkOo5jbcs2a07S4f1zy-20RG",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1aUj-znxyzhFf24iCJiB5ZD46EfDFTSi5",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_37",
+            "quesNumber": 37,
+            "quesCorrectAnswer": "B",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1zhA_hH4hRMp9Fs4BTuforylmBGW2OtrC",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=18OwPsM5deh1usOSVVbedMEnaLYMPqhWe",
+                "quesStatement":null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "Only I and II are undecidable",
+                "B": "Only III is undecidable",
+                "C": "Only II and IV are undecidable",
+                "D": "Only I, II and II are undecidable"
+            },
+            "quesId": "2018_38",
+            "quesNumber": 38,
+            "quesCorrectAnswer": "D",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=17PYYuIJAgr4rF-M9S-oefC03Ap60BVaY",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1EtSbI1r0wgUF1yy35TB52W961YYIQiYa",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2018_39",
+            "quesNumber": 39,
+            "quesCorrectAnswer": "0.60",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1xI4t187k2j_UvAf9omD1XPpyxNfaBwz4",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=13rk--Ipb_w8aqiUjNmdpVr41tCsf32AK",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_40",
+            "quesNumber": 40,
+            "quesCorrectAnswer": "B",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1SPpHKJzBZcCEn0neGLflx3-D5aHVDmA2",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=134IcHdlBa88i4Vd0IFjt_a_7Ww4i3dxE",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2018_41",
+            "quesNumber": 41,
+            "quesCorrectAnswer": "10230",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=13bvw3JLwuADNNUqJxo-ygM-_HFsBjXGf",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1ht6lDBOV6s8W4CoyPm9iJXN1vbccg2vA",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2018_42",
+            "quesNumber": 42,
+            "quesCorrectAnswer": "16",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1_S7PpAXVbcLPtYPyBoM2JUsiHkoU7mkx",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Consider a simple communication system where multiple nodes are connected by a shared broadcast medium (like Ethernet or wireless). The nodes in the system use the following carrier-sense based medium access protocol. A node that receives a packet to transmit will carrier-sense the medium for 5 units of time. If the node does not detect any other transmission in this duration, it starts transmitting its packet in the next time unit. If the node detects another transmission, it waits until this other transmission finishes, and then begins to carrier-sense for 5 time units again. Once they start to transmit, nodes do not perform any collision detection and continue transmission even if a collision occurs. All transmissions last for 20 units of time. Assume that the transmission signal travels at the speed of 10 meters per unit time in the medium. Assume that the system has two nodes P and Q, located at a distance d meters from each other. P starts transmitting a packet at time 0 t = after successfully completing its carrier-sense phase. Node Q has a packet to transmit at time 0 t = and begins to carrier-sense the medium.  The maximum distance d (in meters, rounded to the closest integer) that allows Q to successfully avoid a collision between its proposed transmission and P’s ongoing transmission is __________."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "50",
+                "B": "60",
+                "C": "55",
+                "D": "70"
+            },
+            "quesId": "2018_43",
+            "quesNumber": 43,
+            "quesCorrectAnswer": "A",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=17-ms9YEtNyNokeJ0dp5Vlwe-e7PPpaph",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1cAeij4WN1H69MPprfnw_eQ8Bv_b17wMS",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_44",
+            "quesNumber": 44,
+            "quesCorrectAnswer": "D",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1V78Mbwz98PCVOo6rFXpOSSl6UTX2-x-z",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1pnDtejoSH91WwoGyQKs8E-_-dkWwvznZ",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "There exists at least one model of φ with universe of size less than or equal to 3. ",
+                "B": "There exists no model of φ with universe of size less than or equal to 3. ",
+                "C": "There exists no model of φ with universe of size greater than 7",
+                "D": "Every model of φ has a universe of size equal to 7. "
+            },
+            "quesId": "2018_45",
+            "quesNumber": 45,
+            "quesCorrectAnswer": "A",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1A6XlKljFQvtvKHTFE6N6N48yIbh8_-rl",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1xUaKDq7INyXRhEHeu1kimqmV5VxkQRSS",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "Hi Bye Bye Hi ",
+                "B": "Hi Bye Hi Bye ",
+                "C": "Bye Hi Hi Bye ",
+                "D": "Bye Hi Bye Hi "
+            },
+            "quesId": "2018_46",
+            "quesNumber": 46,
+            "quesCorrectAnswer": "A",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1H25k2g6gh4kVT6asF93vT2KxEMWf2clO",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "The number of possible min-heaps containing each value from {1, 2, 3, 4, 5, 6, 7} exactly once is _______. "
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2018_47",
+            "quesNumber": 47,
+            "quesCorrectAnswer": "80",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1nlYZpn0dTBxBvJlS5a7PBYdFmXMea50V",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1Zf__3tUHy6F8bVCmadGsa25rtuAtVJMe",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_48",
+            "quesNumber": 48,
+            "quesCorrectAnswer": "D",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=16BGjIKhN1f-RoTD-9Lyh9zyabEC4nSNA",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1BBsko55T4PiO_8Egh5ZDEmQoX2fVZNhy",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_49",
+            "quesNumber": 49,
+            "quesCorrectAnswer": "C",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1T8Jj1QE6ZT-vB83vR0B2sbe8LOFt0SZc",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1MiAgVmkNWBMwmWAvj2eWOVz5NKj96YR-",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2018_50",
+            "quesNumber": 50,
+            "quesCorrectAnswer": "2",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1W5_AKuh5jG2c2F_dp2E08N3lC5qAqYCC",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1X0IQmTmaGlGJXNVgowZCtMoCUzCbpx1F",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_51",
+            "quesNumber": 51,
+            "quesCorrectAnswer": "D",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1f4VxAgJBgVqnay6xlzJwUSnxYQiUEEXc",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Let G be a graph with 100! Vertices, with each vertex labeled by a distinct permutation of the numbers 1, 2, …. 100. There is an edge between vertices u and v if and only if the label of u can be obtained by swapping two adjacent numbers in the label of v. Let y denote the degree of a vertex in G and z denote the number of connected components in G.  Then, y+ 10z = _____"
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2018_52",
+            "quesNumber": 52,
+            "quesCorrectAnswer": "109",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=14TgN-Dj8Sd9Pq89LUDj_1BoT_3bu1YGn",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "The instruction pipeline of a RISC processor has the following stages. Instruction Fetch (IF), Instruction Decode (ID), Operand Fetch (OF), Perform Operation (PO) and Writeback (WB). The IF, ID, OF and WB stages take 1 clock cycle each for every instruction. Consider a sequence of 100 instructions. In the PO stage, 40 instructions take 3 clock cycles each, 35 instructions take 2 clock cycles each, and the remaining 25 instructions take 1 clock cycle each. assume that there are no data hazards and no control hazards. The number of clock cycles required for completion of execution of the sequence of instructions is ____________. "
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2018_53",
+            "quesNumber": 53,
+            "quesCorrectAnswer": "219",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1-FUxPimWs8zwdcKzOb_QWlBhgIdZKukQ",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1UvfL4wjY2eWnVV_Vm2EL0p3kK4OuoPvL",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "P : full, Q: full, R: empty, S; empty",
+                "B": "P: empty, Q: empty, R: full, S: full",
+                "C": "P: full, Q: empty, R: empty, S: full ",
+                "D": "P: empty, Q: full, R: full, S: empty "
+            },
+            "quesId": "2018_54",
+            "quesNumber": 54,
+            "quesCorrectAnswer": "C",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1lSBpw7fTRMdWwR-ntHMoXJ6CwdSs7ukn",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1HB2JHS16b_c1svUptks816aCEMDWGtB5",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2018_55",
+            "quesNumber": 55,
+            "quesCorrectAnswer": "3",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1f5VjapUOo95DSt5CROANk-FIaAgV88iG",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1WQozfdctp7zSCvY3t6L_SoJ9Tu7xFLmU",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2018_56",
+            "quesNumber": 56,
+            "quesCorrectAnswer": "4",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1XFSMyVmKYL_r98Kb5ofZhTEN5GRbRBYU",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1EonFNJUWvd_knHjb_8ZX0ikcxmt7gXBW",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_57",
+            "quesNumber": 57,
+            "quesCorrectAnswer": "A",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1BLk7dwpjDqR1kEITq3zXzMmqn2j1ICFj",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1VUndIwqcosgZRSi2kPdxbo-E7kn0eCfH",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_58",
+            "quesNumber": 58,
+            "quesCorrectAnswer": "C",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1Hp3pFdRJmTPAxANMILcE7U_4CkM1APZj",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1R2E2ftbx6dCkt6fwDrOvOi-5iD3vfRVE",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "The system is in safe state. ",
+                "B": "The system is not in safe state, but would be safe if one more instance of E were available. ",
+                "C": "The system is not in safe state, but would be safe if one more instance of F were available. ",
+                "D": "The system is not in safe state, but would be safe if one more instance of G were available. "
+            },
+            "quesId": "2018_59",
+            "quesNumber": 59,
+            "quesCorrectAnswer": "A",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1aKDOUmvzIDXgzbDzkiVyCz3PZPBpEcHp",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1a78k1WvvDQwfoKOvVgYcnmj1q85_mjLK",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_60",
+            "quesNumber": 60,
+            "quesCorrectAnswer": "C",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1gXmS7c3PqkypmNZnLWzywPmzAyIYTrtn",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1QE9kTeIHcE-FyljRDsFuSMoT-qJ2sSif",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "4",
+                "B": "5",
+                "C": "6",
+                "D": "40"
+            },
+            "quesId": "2018_61",
+            "quesNumber": 61,
+            "quesCorrectAnswer": "B",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1Qu6sf82w2CECsDy8mqIRIfLKl07SRCT2",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1VjPdmDDplAaa5B3hHleHyrVCZ_-EjNZn",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "I and IV only",
+                "B": "I and II only",
+                "C": "II and III only",
+                "D": "II and IV only"
+            },
+            "quesId": "2018_62",
+            "quesNumber": 62,
+            "quesCorrectAnswer": "B",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1D1jft8jx9vXnANe2BhRoInTPVh5K75oH",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "A processor has 16 integer registers (R0, R1, …… R15) and 64 floating point registers (F0, F1, ……, F63). It uses a 2-byte instruction format. There are four categories of instructions. Type1, Type-2, Type-3 and Type-4. Type-1 category consists of four instructions, each with 3 integer register operands (3Rs). Type-2 category consists of eight instructions, each with 2 floating point register operands (2Fs). Type-3 category consists of fourteen instructions, each with one integer register operand and one floating point register operand (1R + 1F). Type-4 category consists of N instructions, each with a floating point register operand (1F).  The maximum value of N is _________."
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2018_63",
+            "quesNumber": 63,
+            "quesCorrectAnswer": "32",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1mwDCLnlm5s3yG4Px9B4oYho0nDASxgeH",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage" : "https://drive.google.com/uc?export=view&id=1VENJZsCnMWREhDuex1Y-OSqmcjAwU5_R",
+                "quesStatement": null
+            },
+            "quesType": "Integer",
+            "quesOption": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+            },
+            "quesId": "2018_64",
+            "quesNumber": 64,
+            "quesCorrectAnswer": "85",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1mwDCLnlm5s3yG4Px9B4oYho0nDASxgeH",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "SolutionImage" : "https://drive.google.com/uc?export=view&id=1Wg57nyjVgVhRHmerB2V2_YujcAUE7xYD",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2018_65",
+            "quesNumber": 65,
+            "quesCorrectAnswer": "D",
+            "SolutionImage" : "https://drive.google.com/uc?export=view&id=1euQV-sgc5MHk53AP0ka1xX6sgSNElaub",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        }
+    ]
+}

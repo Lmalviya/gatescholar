@@ -1,0 +1,1373 @@
+{
+    "non_technical": [
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Find the smallest number y such that y x 162 (y multiplied by 162) is a perfect cube."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "24",
+                "B": " 27",
+                "C": "32",
+                "D": "36"
+            },
+            "quesId": "2017_01",
+            "quesNumber": 1,
+            "quesCorrectAnswer": "D",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1tiiL0iFGm3lXCN0Q6tFhOoIfbqiKGFy9",
+            "SolutionImage": "https://drive.google.com/file/d/1tiiL0iFGm3lXCN0Q6tFhOoIfbqiKGFy9/view?usp=sharing",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Rahul, Murali, Srinivas and Arul are seated around a square table. Rahul is sitting to the left of Murali. Srinivas is sitting to the right of Arul. Which of the following pairs are seated opposite each other ?"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "Rahul and Murali",
+                "B": "Srinivas and Arul",
+                "C": "Srinivas and Murali",
+                "D": "Srinivas and Rahul"
+            },
+            "quesId": "2017_02",
+            "quesNumber": 2,
+            "quesCorrectAnswer": "C",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1FBOw6ixzKmyRnHqvn0rsHsVil_veFoVn",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Research in the workplace reveals thatpeople work for many reasons _________"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "money beside",
+                "B": "beside money",
+                "C": "money besides",
+                "D": "besides money"
+            },
+            "quesId": "2017_03",
+            "quesNumber": 3,
+            "quesCorrectAnswer": "D",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1EBnCkX1LSDQldjiTA8mLyl86dGZgNX80",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "The probability that a k-digit number does NOT contain the digits 0, 5 or 9 is"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "0.3^k",
+                "B": "0.6^k",
+                "C": "0.7^k",
+                "D": "0.9^k"
+            },
+            "quesId": "2017_04",
+            "quesNumber": 4,
+            "quesCorrectAnswer": "C",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1g1FazUeoImNaOpIKPfYKLkhJ7RVt4B3L",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "After Rajendra chola returned from his voyage to Indonesia, he ____ to visit the temple in Thanjavur. "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "was wishing",
+                "B": "is wishing",
+                "C": "wished",
+                "D": "had wished"
+            },
+            "quesId": "2017_05",
+            "quesNumber": 5,
+            "quesCorrectAnswer": "C",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1zSAeS-oETYywsZQCJjQVmwdHUE2me9oH",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1Z9BBPKsxHEe0eBQ8Z7fxJ84eeJ4dvXqh",  
+                "quesStatement": "A contour line joins locations having the same height above the mean sea level. The following is a contour plot of a geographical region. Contour lines are shown at 25m intervals in this plot. If in a flood, the water level rises to 525m, which of villages P, Q, R, S, T get submerged? "
+                
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "P,Q",
+                "B": "P,Q,T",
+                "C": "R,S,T",
+                "D": "Q,R,S"
+            },
+            "quesId": "2017_06",
+            "quesNumber": 6,
+            "quesCorrectAnswer": "C",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1iKLOkBXyklXc1rxbcM-S63K4R8d-9nIG",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "“The hold of the nationalist imagination on our colonial past is such that anything inadequately or improperly nationalist is just not history”  Which of the following statements best reflects the author’s opinion?"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "Nationalists are highly imaginative",
+                "B": "History is viewed through the filter of nationalism",
+                "C": "Our colonial past never happened. ",
+                "D": "Nationalism has to be both adequately and properly imagined. "
+            },
+            "quesId": "2017_07",
+            "quesNumber": 7,
+            "quesCorrectAnswer": "B",
+            "SolutionImage": "In author’s opinion, it is clearly visible that history is viewed through the filter of nationalism",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "The expression ((x+y)-|x-y|)/2 is equal to."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "the maximum of x and y",
+                "B": "the minimum of x and y ",
+                "C": "1",
+                "D": "none"
+            },
+            "quesId": "2017_08",
+            "quesNumber": 8,
+            "quesCorrectAnswer": "B",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1b57Dc4SWqZ96Q0EymR4FkzfBDN5pd8Rs",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Six people are seated around a circular table. There are at least two men and two women. There are at least three right-handed persons. Every woman has a left-handed person to her immediate right. None of the women are right-handed. The number of women at the table is "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "2",
+                "B": "4",
+                "C": "3",
+                "D": "Can't be determined"
+            },
+            "quesId": "2017_09",
+            "quesNumber": 9,
+            "quesCorrectAnswer": "A",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=18-cmOAIcKZJG_hXQmc1rb_q6uIFmcgHk",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Arun, Gulab, Neel and Shweta must choose one shirt each from a pile of four shirts coloured red, pink, blue and white respectively. Arun dislikes the colour red and Shweta dislikes the colour white. Gulab and Neel like all the colours. In how many different ways can they choose the shirts so that no one has a shirt with a colour he or she dislikes?   "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "21",
+                "B": "18",
+                "C": "16",
+                "D": "14"
+            },
+            "quesId": "2017_10",
+            "quesNumber": 10,
+            "quesCorrectAnswer": "D",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1YmI8ApwHNXtqDnf2fkZy3sqBZPLlt9Ei",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        }
+    ],
+    "technical": [
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": " Let X be a Gaussian random variable mean 0 and variance σ2. Let Y = max(X, 0) where max (a, b) is the maximum of a and b. The median of Y is _____.  "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "0",
+                "B": "2",
+                "C": "1",
+                "D": "3"
+            },
+            "quesId": "2017_11",
+            "quesNumber": 11,
+            "quesCorrectAnswer": "A",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1Y8oAAn_TsYQHVyni8qSPBuoxCSbbMfW5",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1cLZqYSevAjbfY9AUpls9xx9mTj-OFsCs",
+                "quesStatement": "Consider the Karnaugh map given below, where x represents “don’t care” and blank represents 0.  The minimum number of gates required is _____"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "0",
+                "B": "1",
+                "C": "2",
+                "D": "3"
+            },
+            "quesId": "2017_12",
+            "quesNumber": 12,
+            "quesCorrectAnswer": "B",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1_w--J64nbe9yw4-bnKpirn1tHepjqlCB",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "The statement (¬p) (¬q) is logically equivalent to which of the statements below?  I. p ⇒ q II. q ⇒ p  III. (¬q) ∨ p IV. (¬q) ∨ q  "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": " I only ",
+                "B": "Ⅰ and Ⅳ only",
+                "C": " II only ",
+                "D": " II and III only"
+            },
+            "quesId": "2017_13",
+            "quesNumber": 13,
+            "quesCorrectAnswer": "D",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1VsRMGOWh_qNuzmSih2Eoiwt0wVqZnnWW",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1LGS7c9_ki6SvITL4SJly68bDb2eKxwe_",
+                "quesStatement": "Consider the following table: ."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": " P-(ii), Q-(iii), R-(i)",
+                "B": " P-(iii), Q-(i), R-(ii) ",
+                "C": "P-(ii), Q-(i), R-(iii)",
+                "D": ". P-(i), Q-(ii), R-(iii)"
+            },
+            "quesId": "2017_14",
+            "quesNumber": 14,
+            "quesCorrectAnswer": "C",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1m7Nyr6itYornTnPRcoroxgQP5qcMuvKV",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "A sender S sends a message m to receiver R, which is digitally signed by S with its private key. In this scenario, one or more of the following security violations can take place.  I. S can launch a birthday attack to replace m with a fraudulent message.  II. A third party attacker can launch a birthday attack to replace m with a fraudulent message.  III. R can launch a birthday attack to replace m with a fraudulent message.  Which of the following are possible security violations? "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": " I and II only ",
+                "B": "I only",
+                "C": "II only",
+                "D": " II and III only "
+            },
+            "quesId": "2017_15",
+            "quesNumber": 15,
+            "quesCorrectAnswer": "B",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1QUeLS2VradqlvetXAScAEu5T-svJTSBS",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1fCO48mOuFakFi4gGbiIbCODPlU15c5t2",
+                "quesStatement": "Consider the following grammar."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "{R}",
+                "B": "{w}",
+                "C": "{w,y}",
+                "D": "{W,$}"
+            },
+            "quesId": "2017_16",
+            "quesNumber": 16,
+            "quesCorrectAnswer": "C",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1jgQmG2TDtTjoj4sbKmgbyUVnUfzwYzT_",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Consider the language L given by the regular expression     * a b b a b  over the alphabet  {a, b}. The smallest number of states needed in a deterministic finite-state automation (DFA) accepting L is ______"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "2",
+                "B": "3",
+                "C": "4",
+                "D": "5"
+            },
+            "quesId": "2017_17",
+            "quesNumber": 17,
+            "quesCorrectAnswer": "C",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1SQpeUmaNV_ocVLCUI6PTqIFre2M94Ze1",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Consider a two-level cache hierarchy with L1 and L2 caches. An application incurs 1.4 memory accesses per instruction on average. For this application, the miss rate of L1 cache 0.1, the L2 cache experiences, on average, 7 misses per 1000 instructions. The miss rate of L2 expressed correct to two decimal places is _____. "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "0.05",
+                "B": "0.07",
+                "C": "0.03",
+                "D": "0.01"
+            },
+            "quesId": "2017_18",
+            "quesNumber": 18,
+            "quesCorrectAnswer": "A",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1cZrlpLjX-BQblDb20bWdF-z-5WKPLxcs",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1ovQmlSid4qRg7zUNsgb_2lUQRer1gjOI",
+                "quesStatement": "Consider the following CPU processes with arrival times (in milliseconds) and length of CPU burst (in milliseconds) as given below:  If the pre-emptive shortest remaining time first scheduling algorithm is used to schedule the processes., then the average waiting time across all processes is ____ milliseconds.   "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "0",
+                "B": "1",
+                "C": "2",
+                "D": "3"
+            },
+            "quesId": "2017_19",
+            "quesNumber": 19,
+            "quesCorrectAnswer": "D",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1qyKqVEpfuA1GDyvHgXHFx4CjXKhBQ0Gc",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": " Threads of a process share"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "global variable but not heap ",
+                "B": "heap but not global variable",
+                "C": "Neither heap nor global variable",
+                "D": "Both heap and global variable"
+            },
+            "quesId": "2017_20",
+            "quesNumber": 20,
+            "quesCorrectAnswer": "D",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1rNxpHC_BHPRMoqiNkYolJxv8JFON4p82",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1JcJHv3-p8ue7RHWeCJ4cD5JHyHeLSSk8",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "a unique solution at x = jn where jn denotes a ndimensional vector of all 1 ",
+                "B": "no solution",
+                "C": "infinitely many solutions",
+                "D": "finitely many solutions."
+            },
+            "quesId": "2017_21",
+            "quesNumber": 21,
+            "quesCorrectAnswer": "C",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=138RDzM9vmCZ7YSh7OK7ZOHob-FCGjtKf",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1_1PNW4A4zZTR8HLNIbWwUg9QV3mC9l6S",
+                "quesStatement": ""
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "append list m to the end of list n for all inputs ",
+                "B": " either cause a null pointer dereference or append list m to the end of list n ",
+                "C": " cause a null pointer dereference for all inputs",
+                "D": " append list n to the end of list m for all inputs"
+            },
+            "quesId": "2017_22",
+            "quesNumber": 22,
+            "quesCorrectAnswer": "B",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1qKXjCvo6fY2RHGMqyQ7tkAPxAEU3sTOy",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Consider a relational database containing the following schemas The n-bit fixed-point representation of an unsigned real number real X uses f bits for the fraction part. Let The range of decimal values for X in this representation is "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": " 2^-f to 2*i",
+                "B": "2^-f to (2^i – 2^-f) ",
+                "C": " 0 to 2^i",
+                "D": "0 to (2^i – 2^-f) "
+            },
+            "quesId": "2017_23",
+            "quesNumber": 23,
+            "quesCorrectAnswer": "D",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1wmMKzhzJ65uHaTQi6o-JG4x2hpMRalza",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1Yc6kBSDKVtwjwAGe4lapemr54iIbs6yt",
+                "quesStatement": "Consider the following intermediate program in three address code"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2017_24",
+            "quesNumber": 24,
+            "quesCorrectAnswer": "B",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1Fnfup4sluNBBxFbSdwlL_SB_oAoWoUzm",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1Srmvf6TwEebn7Wi0KotPwYMXMJ1Khlk-",
+                "quesStatement": "Consider the C struct defined below:"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A":"Post-increment addressing mode. (R1)+",
+                "B": "Pre-decrement addressing mode, -(R1)",
+                "C": "Register direct addressing mode, R1",
+                "D": "Index addressing mode, X(R1), where X is an offset represented in 2’s complement 16- bit representation"
+            },
+            "quesId": "2017_25",
+            "quesNumber": 25,
+            "quesCorrectAnswer": "D",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1w0EIdwDtqeE5hEswvcFYMwAjmJ_Q4CTB",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Consider a TCP client and a TCP server running on two different machines. After completing data transfer, the TCP client calls close to terminate the connectional and a FIN segment is sent to the TCP server. Server-side TCP responds by sending an ACK which is received by the client-side TCP. As per the TCP connections state diagram (RFC 793), in which state does the client-side TCP connection wait for the FIN from the sever-side TCP?"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "LAST-ACK",
+                "B": "TIME-WAIT",
+                "C": "FIN-WAIT-1",
+                "D": "FIN-WAIT-2"
+            },
+            "quesId": "2017_26",
+            "quesNumber": 26,
+            "quesCorrectAnswer": "D",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=16OOeykCAHcBg6COYbM7Jdq12bpb-N1H5",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1PMvFhKDjBnHUVINmX0S4wy6BQF1aWIm6",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2017_27",
+            "quesNumber": 27,
+            "quesCorrectAnswer": "B",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1pVMHGQtDXA_gewIyvq58pK1ylvPEtn2u",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1mft7Q-cHEr57pu8To47eR12ptWe6gxEt",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "IV",
+                "B": "I and IV ",
+                "C": "II only",
+                "D": "II and III only"
+            },
+            "quesId": "2017_28",
+            "quesNumber": 28,
+            "quesCorrectAnswer": "B",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1olnRyxe-SpexVs5U65t46elvBhHLG_jI",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1n3OqHl_yJXt6zpcIdfsuhqCQWhwnw2N4",
+                "quesStatement": " When two 8-bit numbers A7…A0 and B7…B0 in 2’s complement representation (with A0 and B0 as the least significant bits) are added using a ripple-carry adder, the sum bits obtained are S7….S0 and the carry bits are C7…..C0. An overflow is said to have occurred if  "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2017_29",
+            "quesNumber": 29,
+            "quesCorrectAnswer": "C",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1olnRyxe-SpexVs5U65t46elvBhHLG_jI",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=10TLKLOGmSHIPQDPfVXLG4gYh6lD75Qpr",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "0.3",
+                "B": "1.4",
+                "C": "2.6",
+                "D": "3.1"
+            },
+            "quesId": "2017_30",
+            "quesNumber": 30,
+            "quesCorrectAnswer": "C",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1dXQNfx-w7_M7DG1BB-rtT5oZHDQ_Xpzo",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1T007Vl5P_TwYV_aRrNW5SYF-AuJOHoeL",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2017_31",
+            "quesNumber": 31,
+            "quesCorrectAnswer": "A",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=15uAILKyegOnMYlT9zKu0hdD_n0YXpCXk",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1lQr3nI9Nj1fQ-D0o1sDL4LQGrSpfnFl_",
+                "quesStatement": "Consider the following C program. "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2017_32",
+            "quesNumber": 32,
+            "quesCorrectAnswer": "B",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1eJoq7xUD142-jzbD6JVJ7ElDCs3_I6E9",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Let T be a tree with 10 vertices. The sum of the degrees of all the vertices in T is _____"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "0",
+                "B": "10",
+                "C": "18",
+                "D": "20"
+            },
+            "quesId": "2017_33",
+            "quesNumber": 33,
+            "quesCorrectAnswer": "C",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1BuSxb-wuo5ZbeY8UlfgPryBic1Pi8Not",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Let T be a binary search tree with 15 nodes. The minimum and maximum possible heights of T are:  Note: The height of a tree with a single node is 0."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": " 4 and 15 respectively",
+                "B": " 3 and 14 respectively",
+                "C": " 4 and 14 respectively",
+                "D": " 3 and 15 respectively"
+            },
+            "quesId": "2017_34",
+            "quesNumber": 34,
+            "quesCorrectAnswer": "B",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=17C6MNR3DgqNwY1cislXwp-9698ahbXsv",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=18S8Ajz4B0QERxF5Zn62tTbtq0s3tRZLB",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "compiler error as the return of malloc is not typecast appropriately. ",
+                "B": " compiler error because the comparison should be made as x==NULL and not as shown.",
+                "C": "compiles successfully but execution may result in dangling pointer. ",
+                "D": "compiles successfully but execution may result in memory leak. "
+            },
+            "quesId": "2017_35",
+            "quesNumber": 35,
+            "quesCorrectAnswer": "D",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1Ha4sv99jEokMRA_WPIHeQkAGF6XUYOq0",
+            "quesMarksPositive": 1,
+            "quesMarksNegative": 0.33,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1HVG_pzgeUWGri6THtr2qpu7mHlY17MLR",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2017_36",
+            "quesNumber": 36,
+            "quesCorrectAnswer": "B",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1HZlgIo1pJH2tJ2R0T5ynb0F24hgyEzfJ",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage":null,
+                "quesStatement": "The number of integers between 1 and 500 (both inclusive) that are divisible by 3 or 5 or 7 is ______."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "212",
+                "B": "271",
+                "C": "311",
+                "D": "354"
+            },
+            "quesId": "2017_37",
+            "quesNumber": 37,
+            "quesCorrectAnswer": "B",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1XyKwZ3jLuVt0IBzg_TbKQOTjRMXJA0rr",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1Jkdt68kS7PSqFTEZ5MbvnsW7UmqnC8Pe",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2017_38",
+            "quesNumber": 38,
+            "quesCorrectAnswer": "B",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1jK7qVne1EQSA4S92MlzW68IXwiT1EP6f",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=121aWxotdU0EwzL8GwXEFz8Z1QUxbOlsx",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2017_39",
+            "quesNumber": 39,
+            "quesCorrectAnswer": "B",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1PsFVgcbjUB49HIOV1Z_lKiMU41fyh6Gc",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "In a RSA cryptosystem a participant A uses two prime numbers p = 13 and q = 17 to generate her public and private keys. If the public key of A is 35. Then the private key of A is ______."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "9",
+                "B": "11",
+                "C": "21",
+                "D": "31"
+            },
+            "quesId": "2017_40",
+            "quesNumber": 40,
+            "quesCorrectAnswer": "B",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1D93xaWZCvH0pjaEzLC9qstuvUjlp5y1_",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Let A be an array of 31 numbers consisting of sequence of 0’s followed by a sequence of 1’s. The problem is to find the smallest index i that A[i] is 1 by probing the minimum numbers of locations in A. The worst case number of probes performed by an optimal algorithm is _____. "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "2",
+                "B": "3",
+                "C": "4",
+                "D": "5"
+            },
+            "quesId": "2017_41",
+            "quesNumber": 41,
+            "quesCorrectAnswer": "D",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1sL-nHP7MX4gaQnHE3BrxXnwPsDXABPzN",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=12KBXpP_7k8bGrCZ3X5nVaU9XH6k3H0nh",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2017_42",
+            "quesNumber": 42,
+            "quesCorrectAnswer": "D",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1LXl3HvqmWb5PNMWjVR56m-EZj9bA-FFT",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1v5qUh6s57IbWwKetQmyPRruCw4-4bcVe",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2017_43",
+            "quesNumber": 43,
+            "quesCorrectAnswer": "C",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1Zd8uGPjR6rqGZY63r75j4YKKRSmeJ1KZ",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1W-rrSiCjtwyWfgqJ8TWX7BmskIacQBgp",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2017_44",
+            "quesNumber": 44,
+            "quesCorrectAnswer": "B",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1gnWUg3zzbo-cG0ofnrLX2e3GucwTe0Mn",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1w7UQLaB5aYpt2nTS2NSDs1DSmBmGxLlg",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2017_45",
+            "quesNumber": 45,
+            "quesCorrectAnswer": "D",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1B103NvD-KRNr2xKtPu-UdCLchVIsYULc",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1LE7aMUxsbaBDyB2ytw-XEr7BsKPZwvN9",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2017_46",
+            "quesNumber": 46,
+            "quesCorrectAnswer": "B",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1i7Xkfy9F4TjyToo9UViSIsexxnMgPLz0",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=12WqrEDZJ94AZbr11clAuMtGuk6BDOFIa",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2017_47",
+            "quesNumber": 47,
+            "quesCorrectAnswer": "B",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1KQA2JcUS_ra05YSTpm-FcVvjlXFHX6a2",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1lrJ7PqRu129Mb-kMRSbg1tXza3rUDiCX",
+                "quesStatement": "An organization requires a range of IP address to assign one to each of its 1500 computers. The organization has approached an Internet Service Provider (ISP) for this task. The ISP uses CIDR and serves the requests from the available IP address space 202.61.0.0/17. The ISP wants to assign an address space to the organization which will minimize the number of routing entries in the ISP’s router using route aggregation. Which of the following address spaces are potential candidates from which the ISP can allot any one of the organization ?"
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2017_48",
+            "quesNumber": 48,
+            "quesCorrectAnswer": "C",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1IwFoi3FnW3QfBAskcxvzwiRAx-bfjYpN",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=13-_7yRMxUTXuhueJadcFYrSgTJeJFlxd",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2017_49",
+            "quesNumber": 49,
+            "quesCorrectAnswer": "A",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1u5o3DUyUbrag0s9zOvAZbKXmRmkSA2hH",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Consider a 2-way set associative cache with 256 blocks and uses LRU replacement, Initially the cache is empty. Conflict misses are those misses which occur due the contention of multiple blocks for the same cache set. Compulsory misses occur due to first time access to the block. The following sequence of accesses to memory blocks. (0,128,256,128,0,128,256,128,1,129,257,129,1,12 9,257,129) is repeated 10 times. The number of conflict misses experienced by the cache is __________. "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "43",
+                "B": "56",
+                "C": "63",
+                "D": "76"
+            },
+            "quesId": "2017_50",
+            "quesNumber": 50,
+            "quesCorrectAnswer": "D",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1-9ioeD3szZxznowo1kgiV_kcnDcyvdPg",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Let u and v be two vectors in whose Euclidean norms satisfy What is the value of such that bisects the angle between u and v? "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "2",
+                "B": "1/2",
+                "C": "1",
+                "D": "-1/2"
+            },
+            "quesId": "2017_51",
+            "quesNumber": 51,
+            "quesCorrectAnswer": "A",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1ZCaKhV8hMOLC1O3mTQakAMx6FkuAkzzg",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1E4rTs0LLhP3Jpslj4ejusdJGxJ8WMFfN",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2017_52",
+            "quesNumber": 52,
+            "quesCorrectAnswer": "C",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1T1GfTNqMGv4-DwI7VAoDAFUxuL71ZecE",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1RpuNa8XwvwAeDowpBXGZM--yMGypHa_J",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2017_53",
+            "quesNumber": 53,
+            "quesCorrectAnswer": "A",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1CRbj-siKGoGlwC8vW4Rfk5F82WGUk5yA",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1ZACdO69umYErhYi6KkDomUkB_LfuBmoi",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2017_54",
+            "quesNumber": 54,
+            "quesCorrectAnswer": "A",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=11to3AV7SKTLIxO8i9ui_bJ6owkxHdNyg",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=17_smxkOrFuNIdlizzzCZyiI_GHCTOZAP",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2017_55",
+            "quesNumber": 55,
+            "quesCorrectAnswer": "C",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1DysioMkCAVVG6WmFSo8VrszfsHJvTUwh",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1_yCeRXn-aFA8_yuWvayQ1aPDCk2eE6EW",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2017_56",
+            "quesNumber": 56,
+            "quesCorrectAnswer": "A",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1ymnYYhPVxGXr5sZwMHu65gVwGmdOE6HM",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "A multithreaded program P executes with x number of threads and uses y number of locks for ensuring mutual exclusion while operating on shared memory locations. All locks in the program are non-reentrant, i.e., if a thread holds a lock l, then it cannot re-acquire lock l without releasing it. If a thread is unable to acquire a lock, it blocks until the lock becomes available. The minimum value of x and the minimum value of y together for which execution of P can result in a deadlock are:  "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "x=1,y=2",
+                "B": "x=2,y=1",
+                "C": "x=2,y=2",
+                "D": "x=1,y=1"
+            },
+            "quesId": "2017_57",
+            "quesNumber": 57,
+            "quesCorrectAnswer": "C",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1A9wawu3p8EJriz__0iPhrX4Bcx7ZsdL0",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "The values of parameters for the Stop-and – Wait ARQ protocol are as given below:  Bit rate of the transmission channel = 1 Mbps  Propagation delay from sender to receiver = 0.75 ms  Time to process a frame = 0.25 ms  Number of bytes in the information frame = 1980  Number of bytes in the acknowledge frame = 20  Number of overhead bytes in the information frame = 20  Assume that there are no transmission errors. Then the transmission efficiency (expressed in percentage) of the Stop-and – Wait ARQ protocol for the above parameters is _____."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "75.33",
+                "B": "89.33",
+                "C": "92.33",
+                "D": "99.33"
+            },
+            "quesId": "2017_58",
+            "quesNumber": 58,
+            "quesCorrectAnswer": "B",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1wW508ILNVHYtVkLkyi3eXio1abGC_OXc",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "A computer network uses polynomials over GF(2) for error checking with 8 bits as information bits and uses x^3 + x + 1 as the generator polynomial to generate the check bits. In this network, the message 01011011 is transmitted as  "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "01011011010 ",
+                "B": "01011011011",
+                "C": " 01011011101 ",
+                "D": "01011011100"
+            },
+            "quesId": "2017_59",
+            "quesNumber": 59,
+            "quesCorrectAnswer": "C",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=11L_rnxjlVoAzg2HvdPBeQ8qaFdXftrlN",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "Let p, q, and r be propositions and the expression  (p → q) → r be a contradiction. Then, the expression (r → p) → q is "
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "a tautology",
+                "B": " a contradiction ",
+                "C": "always TRUE when p is FALSE",
+                "D": "always TRUE when q is TRUE"
+            },
+            "quesId": "2017_60",
+            "quesNumber": 60,
+            "quesCorrectAnswer": "D",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1AwfI7APXLdrL4GhuSbVBxMFEaHdhNQWi",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": null,
+                "quesStatement": "A cache memory unit with capacity of N words and block size of B words is to be designed. If it is designed as a direct mapped cache, the length of the TAG field is 10 bits. If the cache unit is now designed as a 16-way set-associative cache, the length of the TAG field is ______ bits."
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "12",
+                "B": "14",
+                "C": "16",
+                "D": "18"
+            },
+            "quesId": "2017_61",
+            "quesNumber": 61,
+            "quesCorrectAnswer": "B",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1vnVhoTlJ3_V23orJgw0PaQQxaA-m9Pdy",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1g8Fo7GYqBHJPPPq7f8elg1AHilnBBH4u",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D"
+            },
+            "quesId": "2017_62",
+            "quesNumber": 62,
+            "quesCorrectAnswer": "A",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1NZ2ZI7mIdKGGM7oFEjG3mUBUoimR6d3L",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1pgCWML8vmpEkOQtOcii6y2D1OV_yPl6i",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "2",
+                "B": "3",
+                "C": "4",
+                "D": "5"
+            },
+            "quesId": "2017_63",
+            "quesNumber": 63,
+            "quesCorrectAnswer": "C",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1VYqqpaPrGWqzD6oGF3g3ThWwzrTY560o",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1pgCWML8vmpEkOQtOcii6y2D1OV_yPl6i",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "Both (I) and (II)",
+                "B": "(I) only",
+                "C": "(II) only",
+                "D": "Neither (I) nor (II)"
+            },
+            "quesId": "2017_64",
+            "quesNumber": 64,
+            "quesCorrectAnswer": "B",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1VYqqpaPrGWqzD6oGF3g3ThWwzrTY560o",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        },
+        {
+            "ques": {
+                "quesImage": "https://drive.google.com/uc?export=view&id=1JQlWDjr-TgL_HMlP3wfP92lYNsOwNjUL",
+                "quesStatement": null
+            },
+            "quesType": "MCQ",
+            "quesOption": {
+                "A": "Finite",
+                "B": "Not finite but regular",
+                "C": "Context-free but not regular",
+                "D": "Recursive but not context-free"
+            },
+            "quesId": "2017_65",
+            "quesNumber": 65,
+            "quesCorrectAnswer": "B",
+            "SolutionImage": "https://drive.google.com/uc?export=view&id=1Vlzv-0O1j7qtmz-Ps-iEB0IapWjYNaEc",
+            "quesMarksPositive": 2,
+            "quesMarksNegative": 0.66,
+            "currentStatus": "",
+            "chooseOption": ""
+        }
+    ]
+}
